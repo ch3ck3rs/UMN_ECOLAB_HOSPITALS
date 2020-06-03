@@ -1,29 +1,34 @@
 county,state,first_case_date
 Washakie,Wyoming,2020-03-27
-Osborne,Kansas,2020-04-03
+Franklin,Kentucky,2020-03-18
+Hancock,Kentucky,2020-03-31
+Greenup,Kentucky,2020-04-05
+Green,Kentucky,2020-04-07
+Grayson,Kentucky,2020-03-25
 Graves,Kentucky,2020-03-31
 Grant,Kentucky,2020-03-28
 Garrard,Kentucky,2020-04-14
 Gallatin,Kentucky,2020-04-11
 Fulton,Kentucky,2020-04-19
-Franklin,Kentucky,2020-03-18
 Floyd,Kentucky,2020-03-28
+Pottawatomie,Kansas,2020-03-24
 Fleming,Kentucky,2020-04-11
 Fayette,Kentucky,2020-03-06
+Elliott,Kentucky,2020-05-20
 Edmonson,Kentucky,2020-03-31
 Daviess,Kentucky,2020-03-19
 Cumberland,Kentucky,2020-04-02
 Crittenden,Kentucky,2020-04-02
 Clinton,Kentucky,2020-04-04
 Clay,Kentucky,2020-04-19
-Clark,Kentucky,2020-03-15
-Christian,Kentucky,2020-03-19
-Casey,Kentucky,2020-04-14
-Carter,Kentucky,2020-04-05
-Grayson,Kentucky,2020-03-25
-Green,Kentucky,2020-04-07
-Greenup,Kentucky,2020-04-05
-Jessamine,Kentucky,2020-03-22
+Hardin,Kentucky,2020-03-22
+Harlan,Kentucky,2020-05-07
+Harrison,Kentucky,2020-03-08
+Hart,Kentucky,2020-04-07
+Livingston,Kentucky,2020-04-14
+Lincoln,Kentucky,2020-04-02
+Lewis,Kentucky,2020-03-29
+Letcher,Kentucky,2020-04-05
 Leslie,Kentucky,2020-04-05
 Lawrence,Kentucky,2020-03-31
 Laurel,Kentucky,2020-03-25
@@ -32,20 +37,21 @@ Knox,Kentucky,2020-04-09
 Knott,Kentucky,2020-04-11
 Kenton,Kentucky,2020-03-18
 Johnson,Kentucky,2020-04-05
+Jessamine,Kentucky,2020-03-22
 Jefferson,Kentucky,2020-03-08
-Hancock,Kentucky,2020-03-31
 Jackson,Kentucky,2020-04-08
 Hopkins,Kentucky,2020-03-26
 Hickman,Kentucky,2020-04-21
 Henry,Kentucky,2020-03-31
 Henderson,Kentucky,2020-03-19
-Hart,Kentucky,2020-04-07
-Harrison,Kentucky,2020-03-08
-Hardin,Kentucky,2020-03-22
-Carroll,Kentucky,2020-03-28
-Carlisle,Kentucky,2020-04-23
-Campbell,Kentucky,2020-03-27
-Scott,Kansas,2020-04-07
+Clark,Kentucky,2020-03-15
+Christian,Kentucky,2020-03-19
+Casey,Kentucky,2020-04-14
+Wyandotte,Kansas,2020-03-12
+Wilson,Kansas,2020-04-17
+Wabaunsee,Kansas,2020-04-05
+Sumner,Kansas,2020-03-26
+Stevens,Kansas,2020-03-29
 Stanton,Kansas,2020-04-12
 Stafford,Kansas,2020-03-29
 Smith,Kansas,2020-04-15
@@ -54,20 +60,21 @@ Sheridan,Kansas,2020-04-19
 Shawnee,Kansas,2020-03-25
 Seward,Kansas,2020-04-07
 Sedgwick,Kansas,2020-03-19
+Scott,Kansas,2020-04-07
 Saline,Kansas,2020-03-30
-Sumner,Kansas,2020-03-26
 Rooks,Kansas,2020-04-07
 Riley,Kansas,2020-03-20
 Rice,Kansas,2020-04-23
 Republic,Kansas,2020-04-05
 Reno,Kansas,2020-03-20
-Pratt,Kansas,2020-04-01
-Pottawatomie,Kansas,2020-03-24
-Phillips,Kansas,2020-04-11
-Stevens,Kansas,2020-03-29
-Wabaunsee,Kansas,2020-04-05
+Woodson,Kansas,2020-03-24
+Adair,Kentucky,2020-04-05
+Carter,Kentucky,2020-04-05
+Allen,Kentucky,2020-03-22
+Carroll,Kentucky,2020-03-28
+Carlisle,Kentucky,2020-04-23
+Campbell,Kentucky,2020-03-27
 Calloway,Kentucky,2020-03-20
-Bourbon,Kentucky,2020-03-14
 Caldwell,Kentucky,2020-04-04
 Butler,Kentucky,2020-03-28
 Bullitt,Kentucky,2020-03-27
@@ -76,42 +83,45 @@ Breathitt,Kentucky,2020-03-22
 Bracken,Kentucky,2020-03-28
 Boyle,Kentucky,2020-03-28
 Boyd,Kentucky,2020-03-29
+Bourbon,Kentucky,2020-03-14
 Boone,Kentucky,2020-03-26
-Wilson,Kansas,2020-04-17
+Bell,Kentucky,2020-05-18
 Bath,Kentucky,2020-04-02
 Barren,Kentucky,2020-03-31
 Ballard,Kentucky,2020-04-08
 Anderson,Kentucky,2020-03-21
-Allen,Kentucky,2020-03-22
-Adair,Kentucky,2020-04-05
-Wyandotte,Kansas,2020-03-12
-Woodson,Kansas,2020-03-24
-Letcher,Kentucky,2020-04-05
-Lewis,Kentucky,2020-03-29
-Lincoln,Kentucky,2020-04-02
-Bossier,Louisiana,2020-03-14
+Logan,Kentucky,2020-03-23
+Lyon,Kentucky,2020-03-17
+Madison,Kentucky,2020-03-21
+Grant,Louisiana,2020-03-23
+Evangeline,Louisiana,2020-03-21
+East Feliciana,Louisiana,2020-03-26
+East Carroll,Louisiana,2020-03-28
+East Baton Rouge,Louisiana,2020-03-17
 De Soto,Louisiana,2020-03-20
 Concordia,Louisiana,2020-03-31
 Claiborne,Louisiana,2020-03-21
 Catahoula,Louisiana,2020-03-20
 Cameron,Louisiana,2020-04-07
-Caldwell,Louisiana,2020-03-29
+Caldwell,Louisiana,2020-04-02
 Calcasieu,Louisiana,2020-03-19
 Caddo,Louisiana,2020-03-11
+Bossier,Louisiana,2020-03-14
 Bienville,Louisiana,2020-03-21
-East Carroll,Louisiana,2020-03-28
 Beauregard,Louisiana,2020-03-21
 Avoyelles,Louisiana,2020-03-21
 Assumption,Louisiana,2020-03-19
 Ascension,Louisiana,2020-03-16
 Allen,Louisiana,2020-03-23
-Acadia,Louisiana,2020-03-22
+Franklin,Louisiana,2020-03-28
+Iberia,Louisiana,2020-03-19
 Woodford,Kentucky,2020-03-27
-Whitley,Kentucky,2020-04-08
-East Baton Rouge,Louisiana,2020-03-17
-East Feliciana,Louisiana,2020-03-26
-Wayne,Kentucky,2020-03-25
-Lafourche,Louisiana,2020-03-14
+Iberville,Louisiana,2020-03-19
+Sabine,Louisiana,2020-03-29
+Richland,Louisiana,2020-03-23
+Red River,Louisiana,2020-03-29
+Rapides,Louisiana,2020-03-20
+Pointe Coupee,Louisiana,2020-03-26
 Plaquemines,Louisiana,2020-03-19
 Ouachita,Louisiana,2020-03-21
 Orleans,Louisiana,2020-03-10
@@ -120,43 +130,43 @@ Morehouse,Louisiana,2020-03-25
 Madison,Louisiana,2020-03-26
 Livingston,Louisiana,2020-03-19
 Lincoln,Louisiana,2020-03-23
+Lafourche,Louisiana,2020-03-14
 Lafayette,Louisiana,2020-03-19
-Evangeline,Louisiana,2020-03-21
 LaSalle,Louisiana,2020-03-26
 Jefferson Davis,Louisiana,2020-03-25
 Jefferson,Louisiana,2020-03-09
 Jackson,Louisiana,2020-03-25
-Iberville,Louisiana,2020-03-19
-Iberia,Louisiana,2020-03-19
-Grant,Louisiana,2020-03-23
-Franklin,Louisiana,2020-03-28
-Webster,Kentucky,2020-03-26
-Washington,Kentucky,2020-03-28
-Livingston,Kentucky,2020-04-14
-McLean,Kentucky,2020-04-05
+Acadia,Louisiana,2020-03-22
+Wolfe,Kentucky,2020-05-19
+Magoffin,Kentucky,2020-05-16
+Owsley,Kentucky,2020-04-12
+Oldham,Kentucky,2020-03-22
+Ohio,Kentucky,2020-04-04
+Nicholas,Kentucky,2020-03-28
 Nelson,Kentucky,2020-03-14
 Muhlenberg,Kentucky,2020-03-24
 Morgan,Kentucky,2020-04-12
 Montgomery,Kentucky,2020-03-12
 Monroe,Kentucky,2020-04-05
+Metcalfe,Kentucky,2020-04-28
 Mercer,Kentucky,2020-03-26
 Menifee,Kentucky,2020-03-24
 Meade,Kentucky,2020-04-02
+McLean,Kentucky,2020-04-05
 McCreary,Kentucky,2020-03-25
-Ohio,Kentucky,2020-04-04
 McCracken,Kentucky,2020-03-24
 Mason,Kentucky,2020-03-26
 Martin,Kentucky,2020-03-24
 Marshall,Kentucky,2020-03-30
 Marion,Kentucky,2020-03-30
-Madison,Kentucky,2020-03-21
-Lyon,Kentucky,2020-03-17
-Logan,Kentucky,2020-03-23
-Nicholas,Kentucky,2020-03-28
-Oldham,Kentucky,2020-03-22
+Owen,Kentucky,2020-04-28
+Pendleton,Kentucky,2020-04-02
+Whitley,Kentucky,2020-04-08
+Perry,Kentucky,2020-04-04
+Webster,Kentucky,2020-03-26
+Wayne,Kentucky,2020-03-25
+Washington,Kentucky,2020-03-28
 Warren,Kentucky,2020-03-18
-Shelby,Kentucky,2020-03-28
-Unknown,Kentucky,2020-03-19
 Union,Kentucky,2020-03-26
 Trimble,Kentucky,2020-04-10
 Trigg,Kentucky,2020-04-12
@@ -164,52 +174,17 @@ Todd,Kentucky,2020-04-07
 Taylor,Kentucky,2020-03-29
 Spencer,Kentucky,2020-03-21
 Simpson,Kentucky,2020-03-24
+Shelby,Kentucky,2020-03-28
 Scott,Kentucky,2020-03-19
-Owsley,Kentucky,2020-04-12
 Russell,Kentucky,2020-03-31
 Rowan,Kentucky,2020-04-11
 Rockcastle,Kentucky,2020-03-31
 Pulaski,Kentucky,2020-03-19
 Powell,Kentucky,2020-03-31
 Pike,Kentucky,2020-04-05
-Perry,Kentucky,2020-04-04
-Pendleton,Kentucky,2020-04-02
-Ottawa,Kansas,2020-03-27
-Osage,Kansas,2020-03-27
-Rapides,Louisiana,2020-03-20
-Neosho,Kansas,2020-03-25
-Des Moines,Iowa,2020-03-26
-Delaware,Iowa,2020-04-07
-Dallas,Iowa,2020-03-14
-Crawford,Iowa,2020-03-30
-Clinton,Iowa,2020-03-27
-Clayton,Iowa,2020-03-26
-Clay,Iowa,2020-03-31
-Clarke,Iowa,2020-04-05
-Chickasaw,Iowa,2020-04-06
-Cherokee,Iowa,2020-04-21
-Cerro Gordo,Iowa,2020-03-22
-Cedar,Iowa,2020-03-24
-Cass,Iowa,2020-04-13
-Carroll,Iowa,2020-03-12
-Butler,Iowa,2020-03-27
-Buena Vista,Iowa,2020-04-07
-Buchanan,Iowa,2020-03-24
-Bremer,Iowa,2020-04-02
-Boone,Iowa,2020-03-28
-Dickinson,Iowa,2020-03-27
-Dubuque,Iowa,2020-03-19
-Fayette,Iowa,2020-03-21
-Humboldt,Iowa,2020-04-21
-Kossuth,Iowa,2020-03-22
-Keokuk,Iowa,2020-03-28
-Jones,Iowa,2020-03-30
-Johnson,Iowa,2020-03-08
-Jefferson,Iowa,2020-04-02
-Jasper,Iowa,2020-03-24
-Jackson,Iowa,2020-03-30
-Iowa,Iowa,2020-03-27
-Howard,Iowa,2020-04-04
+Pratt,Kansas,2020-04-01
+Phillips,Kansas,2020-04-11
+St. Charles,Louisiana,2020-03-13
 Franklin,Iowa,2020-04-06
 Henry,Iowa,2020-03-21
 Harrison,Iowa,2020-03-13
@@ -219,42 +194,49 @@ Hamilton,Iowa,2020-04-05
 Guthrie,Iowa,2020-03-30
 Grundy,Iowa,2020-04-04
 Greene,Iowa,2020-04-07
-Black Hawk,Iowa,2020-03-17
-Benton,Iowa,2020-03-25
-Audubon,Iowa,2020-03-30
-Porter,Indiana,2020-03-24
-Shelby,Indiana,2020-03-20
-Scott,Indiana,2020-03-22
-Rush,Indiana,2020-03-25
-Ripley,Indiana,2020-03-22
-Randolph,Indiana,2020-03-27
-Putnam,Indiana,2020-03-22
-Pulaski,Indiana,2020-04-06
-Posey,Indiana,2020-03-26
-Pike,Indiana,2020-04-12
-St. Joseph,Indiana,2020-03-11
-Perry,Indiana,2020-04-10
-Parke,Indiana,2020-04-03
-Owen,Indiana,2020-03-19
-Orange,Indiana,2020-03-26
-Ohio,Indiana,2020-03-24
-Noble,Indiana,2020-03-09
-Morgan,Indiana,2020-03-22
-Montgomery,Indiana,2020-03-24
-Spencer,Indiana,2020-04-02
-Starke,Indiana,2020-03-24
-Appanoose,Iowa,2020-03-26
-Warren,Indiana,2020-03-26
-Allamakee,Iowa,2020-03-15
-Adair,Iowa,2020-03-17
-Whitley,Indiana,2020-03-27
-White,Indiana,2020-03-28
+Fremont,Iowa,2020-05-08
+Floyd,Iowa,2020-05-01
+Ottawa,Kansas,2020-03-27
+Fayette,Iowa,2020-03-21
+Emmet,Iowa,2020-05-13
+Dubuque,Iowa,2020-03-19
+Dickinson,Iowa,2020-03-27
+Des Moines,Iowa,2020-03-26
+Delaware,Iowa,2020-04-07
+Davis,Iowa,2020-04-29
+Dallas,Iowa,2020-03-14
+Crawford,Iowa,2020-03-30
+Howard,Iowa,2020-04-04
+Humboldt,Iowa,2020-04-21
+Ida,Iowa,2020-05-12
+Iowa,Iowa,2020-03-27
+Monona,Iowa,2020-03-26
+Mitchell,Iowa,2020-04-01
+Mills,Iowa,2020-04-04
+Marshall,Iowa,2020-03-27
+Marion,Iowa,2020-04-06
+Mahaska,Iowa,2020-03-26
+Madison,Iowa,2020-04-01
+Lyon,Iowa,2020-04-03
+Lucas,Iowa,2020-05-17
+Louisa,Iowa,2020-04-03
+Linn,Iowa,2020-03-21
+Lee,Iowa,2020-04-04
+Kossuth,Iowa,2020-03-22
+Keokuk,Iowa,2020-03-28
+Jones,Iowa,2020-03-30
+Johnson,Iowa,2020-03-08
+Jefferson,Iowa,2020-04-02
+Jasper,Iowa,2020-03-24
+Jackson,Iowa,2020-03-30
+Clinton,Iowa,2020-03-27
+Clayton,Iowa,2020-03-26
+Clay,Iowa,2020-03-31
 Wells,Indiana,2020-03-14
-Wayne,Indiana,2020-03-19
 Washington,Indiana,2020-03-21
 Warrick,Indiana,2020-03-24
+Warren,Indiana,2020-03-26
 Wabash,Indiana,2020-03-28
-Steuben,Indiana,2020-03-29
 Vigo,Indiana,2020-03-20
 Vermillion,Indiana,2020-03-28
 Vanderburgh,Indiana,2020-03-20
@@ -263,10 +245,46 @@ Tipton,Indiana,2020-03-22
 Tippecanoe,Indiana,2020-03-19
 Switzerland,Indiana,2020-03-28
 Sullivan,Indiana,2020-03-24
-Lee,Iowa,2020-04-04
-Linn,Iowa,2020-03-21
-Louisa,Iowa,2020-04-03
-Edwards,Kansas,2020-04-22
+Steuben,Indiana,2020-03-29
+Starke,Indiana,2020-03-24
+St. Joseph,Indiana,2020-03-11
+Spencer,Indiana,2020-04-02
+Shelby,Indiana,2020-03-20
+Rush,Indiana,2020-03-25
+Ripley,Indiana,2020-03-22
+Wayne,Indiana,2020-03-19
+White,Indiana,2020-03-28
+Clarke,Iowa,2020-04-05
+Whitley,Indiana,2020-03-27
+Chickasaw,Iowa,2020-04-06
+Cherokee,Iowa,2020-04-21
+Cerro Gordo,Iowa,2020-03-22
+Cedar,Iowa,2020-03-24
+Cass,Iowa,2020-04-13
+Carroll,Iowa,2020-03-12
+Calhoun,Iowa,2020-05-01
+Butler,Iowa,2020-03-27
+Buena Vista,Iowa,2020-04-07
+Buchanan,Iowa,2020-03-24
+Bremer,Iowa,2020-04-02
+Boone,Iowa,2020-03-28
+Black Hawk,Iowa,2020-03-17
+Benton,Iowa,2020-03-25
+Audubon,Iowa,2020-03-30
+Appanoose,Iowa,2020-03-26
+Allamakee,Iowa,2020-03-15
+Adams,Iowa,2020-05-17
+Adair,Iowa,2020-03-17
+Monroe,Iowa,2020-05-03
+Montgomery,Iowa,2020-03-27
+Muscatine,Iowa,2020-03-19
+Jewell,Kansas,2020-04-04
+Jackson,Kansas,2020-03-22
+Haskell,Kansas,2020-04-20
+Harvey,Kansas,2020-03-27
+Harper,Kansas,2020-04-30
+Hamilton,Kansas,2020-04-11
+Greenwood,Kansas,2020-04-04
 Gray,Kansas,2020-04-23
 Grant,Kansas,2020-04-24
 Gove,Kansas,2020-03-27
@@ -274,21 +292,22 @@ Geary,Kansas,2020-04-05
 Franklin,Kansas,2020-03-14
 Ford,Kansas,2020-03-17
 Finney,Kansas,2020-03-29
+Ellsworth,Kansas,2020-05-04
 Ellis,Kansas,2020-04-11
+Edwards,Kansas,2020-04-22
 Douglas,Kansas,2020-03-17
-Hamilton,Kansas,2020-04-11
 Doniphan,Kansas,2020-03-24
 Dickinson,Kansas,2020-04-14
-Crawford,Kansas,2020-03-25
+Jefferson,Kansas,2020-03-26
+Johnson,Kansas,2020-03-07
 Cowley,Kansas,2020-04-02
-Coffey,Kansas,2020-03-27
-Cloud,Kansas,2020-04-02
-Clay,Kansas,2020-03-27
-Clark,Kansas,2020-04-23
-Greenwood,Kansas,2020-04-04
-Harvey,Kansas,2020-03-27
-Chautauqua,Kansas,2020-03-31
-Lyon,Kansas,2020-03-23
+Kearny,Kansas,2020-04-12
+Osborne,Kansas,2020-04-03
+Osage,Kansas,2020-03-27
+Norton,Kansas,2020-05-01
+Ness,Kansas,2020-05-18
+Neosho,Kansas,2020-03-25
+Nemaha,Kansas,2020-04-28
 Morton,Kansas,2020-04-06
 Morris,Kansas,2020-03-19
 Montgomery,Kansas,2020-03-29
@@ -297,65 +316,72 @@ Miami,Kansas,2020-03-28
 Meade,Kansas,2020-04-24
 McPherson,Kansas,2020-03-27
 Marion,Kansas,2020-04-03
+Lyon,Kansas,2020-03-23
 Linn,Kansas,2020-03-19
-Haskell,Kansas,2020-04-20
 Leavenworth,Kansas,2020-03-18
 Labette,Kansas,2020-03-31
 Kiowa,Kansas,2020-04-23
-Kearny,Kansas,2020-04-12
-Johnson,Kansas,2020-03-07
-Jewell,Kansas,2020-04-04
-Jefferson,Kansas,2020-03-26
-Jackson,Kansas,2020-03-22
-Cherokee,Kansas,2020-03-19
-Chase,Kansas,2020-04-17
-Lyon,Iowa,2020-04-03
+Crawford,Kansas,2020-03-25
+Coffey,Kansas,2020-03-27
 O'Brien,Iowa,2020-04-02
+Warren,Iowa,2020-03-24
+Van Buren,Iowa,2020-03-30
+Unknown,Iowa,2020-04-17
+Union,Iowa,2020-04-10
+Taylor,Iowa,2020-03-28
+Tama,Iowa,2020-03-22
+Story,Iowa,2020-03-21
+Sioux,Iowa,2020-03-22
+Shelby,Iowa,2020-03-28
 Scott,Iowa,2020-03-22
+Sac,Iowa,2020-05-01
+Ringgold,Iowa,2020-05-19
 Poweshiek,Iowa,2020-03-22
 Pottawattamie,Iowa,2020-03-09
 Polk,Iowa,2020-03-15
 Pocahontas,Iowa,2020-04-27
 Plymouth,Iowa,2020-04-03
+Palo Alto,Iowa,2020-05-08
 Page,Iowa,2020-03-26
 Osceola,Iowa,2020-04-10
-Muscatine,Iowa,2020-03-19
-Sioux,Iowa,2020-03-22
-Montgomery,Iowa,2020-03-27
-Monona,Iowa,2020-03-26
-Mitchell,Iowa,2020-04-01
-Mills,Iowa,2020-04-04
-Marshall,Iowa,2020-03-27
-Marion,Iowa,2020-04-06
-Mahaska,Iowa,2020-03-26
-Madison,Iowa,2020-04-01
-Shelby,Iowa,2020-03-28
-Story,Iowa,2020-03-21
+Wapello,Iowa,2020-03-23
+Washington,Iowa,2020-03-18
+Cloud,Kansas,2020-04-02
+Wayne,Iowa,2020-05-01
+Clay,Kansas,2020-03-27
+Clark,Kansas,2020-04-23
+Cheyenne,Kansas,2020-04-29
+Cherokee,Kansas,2020-03-19
+Chautauqua,Kansas,2020-03-31
+Chase,Kansas,2020-04-17
 Butler,Kansas,2020-03-13
-Winneshiek,Iowa,2020-03-18
+Brown,Kansas,2020-05-04
 Bourbon,Kansas,2020-03-23
 Barton,Kansas,2020-03-31
 Barber,Kansas,2020-04-07
 Atchison,Kansas,2020-03-30
-Anderson,Kansas,2020-04-11
+Anderson,Kansas,2020-05-09
 Wright,Iowa,2020-03-27
 Worth,Iowa,2020-04-08
 Woodbury,Iowa,2020-03-22
+Winneshiek,Iowa,2020-03-18
 Winnebago,Iowa,2020-04-06
-Tama,Iowa,2020-03-22
 Webster,Iowa,2020-03-27
-Washington,Iowa,2020-03-18
-Warren,Iowa,2020-03-24
-Wapello,Iowa,2020-03-23
-Van Buren,Iowa,2020-03-30
-Unknown,Iowa,2020-04-17
-Union,Iowa,2020-04-10
-Taylor,Iowa,2020-03-28
-Pointe Coupee,Louisiana,2020-03-26
-Red River,Louisiana,2020-03-29
-Miami,Indiana,2020-03-21
-Cottonwood,Minnesota,2020-03-29
+St. Bernard,Louisiana,2020-03-15
+St. Helena,Louisiana,2020-03-31
+Kansas City,Missouri,2020-03-20
+Alcorn,Mississippi,2020-03-30
+Claiborne,Mississippi,2020-03-29
+Choctaw,Mississippi,2020-03-24
+Chickasaw,Mississippi,2020-03-22
+Carroll,Mississippi,2020-03-29
+Calhoun,Mississippi,2020-03-25
+Bolivar,Mississippi,2020-03-18
+Benton,Mississippi,2020-03-26
+Attala,Mississippi,2020-03-21
+Amite,Mississippi,2020-03-28
 Adams,Mississippi,2020-03-20
+Isanti,Minnesota,2020-03-29
 Yellow Medicine,Minnesota,2020-04-01
 Wright,Minnesota,2020-03-13
 Winona,Minnesota,2020-03-25
@@ -363,21 +389,23 @@ Wilkin,Minnesota,2020-03-26
 Watonwan,Minnesota,2020-03-30
 Washington,Minnesota,2020-03-15
 Waseca,Minnesota,2020-03-15
+Wadena,Minnesota,2020-04-28
 Wabasha,Minnesota,2020-03-21
-Unknown,Minnesota,2020-03-21
-Traverse,Minnesota,2020-03-31
-Todd,Minnesota,2020-04-12
-Swift,Minnesota,2020-04-07
-Steele,Minnesota,2020-03-21
-Stearns,Minnesota,2020-03-12
-St. Louis,Minnesota,2020-03-21
-Sibley,Minnesota,2020-03-26
-Sherburne,Minnesota,2020-03-23
-Scott,Minnesota,2020-03-19
-Alcorn,Mississippi,2020-03-30
-Amite,Mississippi,2020-03-25
-Attala,Mississippi,2020-03-21
+Clarke,Mississippi,2020-03-28
+Clay,Mississippi,2020-03-21
+Coahoma,Mississippi,2020-03-18
 Copiah,Mississippi,2020-03-13
+Kemper,Mississippi,2020-03-27
+Jones,Mississippi,2020-03-19
+Jefferson Davis,Mississippi,2020-04-09
+Jefferson,Mississippi,2020-03-27
+Jasper,Mississippi,2020-04-01
+Jackson,Mississippi,2020-03-17
+Itawamba,Mississippi,2020-03-21
+Humphreys,Mississippi,2020-03-20
+Holmes,Mississippi,2020-03-19
+Hinds,Mississippi,2020-03-15
+Harrison,Mississippi,2020-03-17
 Hancock,Mississippi,2020-03-16
 Grenada,Mississippi,2020-03-21
 Greene,Mississippi,2020-04-06
@@ -386,96 +414,58 @@ Franklin,Mississippi,2020-03-20
 Forrest,Mississippi,2020-03-11
 DeSoto,Mississippi,2020-03-18
 Covington,Mississippi,2020-03-28
-Coahoma,Mississippi,2020-03-18
-Benton,Mississippi,2020-03-26
-Clay,Mississippi,2020-03-21
-Clarke,Mississippi,2020-03-28
-Claiborne,Mississippi,2020-03-29
-Choctaw,Mississippi,2020-03-24
-Chickasaw,Mississippi,2020-03-22
-Carroll,Mississippi,2020-03-29
-Calhoun,Mississippi,2020-03-25
-Bolivar,Mississippi,2020-03-18
-Roseau,Minnesota,2020-04-07
-Rock,Minnesota,2020-04-12
-Rice,Minnesota,2020-03-18
-Isanti,Minnesota,2020-03-29
-Lincoln,Minnesota,2020-03-27
-Le Sueur,Minnesota,2020-03-22
-Lac qui Parle,Minnesota,2020-03-23
-Koochiching,Minnesota,2020-04-02
-Kittson,Minnesota,2020-04-18
-Kandiyohi,Minnesota,2020-03-26
-Jackson,Minnesota,2020-03-21
-Itasca,Minnesota,2020-03-30
-Houston,Minnesota,2020-04-05
-Mahnomen,Minnesota,2020-03-27
-Hennepin,Minnesota,2020-03-12
-Goodhue,Minnesota,2020-03-25
-Freeborn,Minnesota,2020-04-01
-Fillmore,Minnesota,2020-03-20
-Faribault,Minnesota,2020-03-27
-Douglas,Minnesota,2020-03-29
-Dodge,Minnesota,2020-03-21
-Dakota,Minnesota,2020-03-12
-Lyon,Minnesota,2020-03-28
-Marshall,Minnesota,2020-04-19
-Renville,Minnesota,2020-03-14
-Olmsted,Minnesota,2020-03-11
-Redwood,Minnesota,2020-04-06
-Red Lake,Minnesota,2020-04-12
-Ramsey,Minnesota,2020-03-06
-Polk,Minnesota,2020-04-04
-Pipestone,Minnesota,2020-04-05
-Pine,Minnesota,2020-04-08
-Pennington,Minnesota,2020-04-21
-Otter Tail,Minnesota,2020-03-29
-Norman,Minnesota,2020-04-15
-Martin,Minnesota,2020-03-17
+Unknown,Minnesota,2020-03-21
+Traverse,Minnesota,2020-03-31
+Todd,Minnesota,2020-04-12
 Nobles,Minnesota,2020-04-10
-Nicollet,Minnesota,2020-03-17
 Murray,Minnesota,2020-04-06
 Mower,Minnesota,2020-03-19
 Morrison,Minnesota,2020-04-19
 Mille Lacs,Minnesota,2020-04-16
 Meeker,Minnesota,2020-03-30
 McLeod,Minnesota,2020-04-04
-Harrison,Mississippi,2020-03-17
-Hinds,Mississippi,2020-03-15
-Holmes,Mississippi,2020-03-19
-Yazoo,Mississippi,2020-03-19
-Bollinger,Missouri,2020-03-26
-Benton,Missouri,2020-03-26
-Bates,Missouri,2020-03-21
-Barry,Missouri,2020-03-27
-Audrain,Missouri,2020-04-19
-Atchison,Missouri,2020-03-27
-Andrew,Missouri,2020-04-11
-Adair,Missouri,2020-03-23
-Yalobusha,Mississippi,2020-03-26
-Buchanan,Missouri,2020-03-27
-Winston,Mississippi,2020-03-19
-Wilkinson,Mississippi,2020-03-19
-Webster,Mississippi,2020-03-22
-Wayne,Mississippi,2020-04-02
-Washington,Mississippi,2020-03-21
-Warren,Mississippi,2020-03-29
-Walthall,Mississippi,2020-03-19
-Union,Mississippi,2020-03-21
-Boone,Missouri,2020-03-17
-Butler,Missouri,2020-04-01
-Tishomingo,Mississippi,2020-03-31
-Clark,Missouri,2020-04-03
-DeKalb,Missouri,2020-04-01
-Daviess,Missouri,2020-04-15
-Dallas,Missouri,2020-04-07
-Crawford,Missouri,2020-03-30
-Cooper,Missouri,2020-03-25
-Cole,Missouri,2020-03-17
+Martin,Minnesota,2020-03-17
+Marshall,Minnesota,2020-04-19
+Mahnomen,Minnesota,2020-03-27
+Lyon,Minnesota,2020-03-31
+Lincoln,Minnesota,2020-03-27
+Le Sueur,Minnesota,2020-03-22
+Lake,Minnesota,2020-05-07
+Lac qui Parle,Minnesota,2020-03-23
+Koochiching,Minnesota,2020-04-02
+Kittson,Minnesota,2020-04-18
+Kandiyohi,Minnesota,2020-03-26
+Kanabec,Minnesota,2020-05-01
+Jackson,Minnesota,2020-03-21
+Nicollet,Minnesota,2020-03-17
+Norman,Minnesota,2020-04-15
+Swift,Minnesota,2020-04-07
+Olmsted,Minnesota,2020-03-11
+Steele,Minnesota,2020-03-21
+Stearns,Minnesota,2020-03-12
+St. Louis,Minnesota,2020-03-21
+Sibley,Minnesota,2020-03-26
+Sherburne,Minnesota,2020-03-23
+Scott,Minnesota,2020-03-19
+Roseau,Minnesota,2020-04-07
+Rock,Minnesota,2020-04-12
+Rice,Minnesota,2020-03-18
+Renville,Minnesota,2020-03-14
+Redwood,Minnesota,2020-04-06
+Red Lake,Minnesota,2020-04-12
+Ramsey,Minnesota,2020-03-06
+Pope,Minnesota,2020-05-05
+Polk,Minnesota,2020-04-04
+Pipestone,Minnesota,2020-04-05
+Pine,Minnesota,2020-04-08
+Pennington,Minnesota,2020-04-21
+Otter Tail,Minnesota,2020-03-29
+Lafayette,Mississippi,2020-03-20
+Lamar,Mississippi,2020-03-23
+Lauderdale,Mississippi,2020-03-26
 Clinton,Missouri,2020-03-23
-Clay,Missouri,2020-03-23
+Clark,Missouri,2020-04-03
 Christian,Missouri,2020-03-20
-Caldwell,Missouri,2020-04-01
 Chariton,Missouri,2020-03-27
 Cedar,Missouri,2020-03-30
 Cass,Missouri,2020-03-16
@@ -484,42 +474,42 @@ Carroll,Missouri,2020-04-22
 Cape Girardeau,Missouri,2020-03-24
 Camden,Missouri,2020-03-23
 Callaway,Missouri,2020-03-23
-Tunica,Mississippi,2020-03-21
-Tippah,Mississippi,2020-03-20
-Humphreys,Mississippi,2020-03-20
-Lauderdale,Mississippi,2020-03-26
-Marion,Mississippi,2020-03-23
-Madison,Mississippi,2020-03-18
-Lowndes,Mississippi,2020-03-21
-Lincoln,Mississippi,2020-03-21
-Leflore,Mississippi,2020-03-13
-Lee,Mississippi,2020-03-20
-Leake,Mississippi,2020-03-21
+Caldwell,Missouri,2020-04-01
+Butler,Missouri,2020-04-01
+Buchanan,Missouri,2020-03-27
+Boone,Missouri,2020-03-17
+Bollinger,Missouri,2020-03-26
+Benton,Missouri,2020-03-26
+Bates,Missouri,2020-03-21
+Barry,Missouri,2020-03-27
+Audrain,Missouri,2020-04-19
+Clay,Missouri,2020-03-23
+Cole,Missouri,2020-03-17
+Andrew,Missouri,2020-04-11
+Cooper,Missouri,2020-03-25
+Jefferson,Missouri,2020-03-24
+Jasper,Missouri,2020-03-21
+Jackson,Missouri,2020-03-17
+Iron,Missouri,2020-04-11
+Howell,Missouri,2020-04-02
+Howard,Missouri,2020-04-07
+Holt,Missouri,2020-04-15
+Henry,Missouri,2020-03-13
+Harrison,Missouri,2020-03-31
+Greene,Missouri,2020-03-12
+Gentry,Missouri,2020-04-06
+Gasconade,Missouri,2020-04-01
+Franklin,Missouri,2020-03-24
+Dunklin,Missouri,2020-03-20
+Dent,Missouri,2020-05-15
+DeKalb,Missouri,2020-04-01
+Daviess,Missouri,2020-04-15
+Dallas,Missouri,2020-04-07
+Crawford,Missouri,2020-03-30
+Atchison,Missouri,2020-03-27
+Adair,Missouri,2020-03-23
 Lawrence,Mississippi,2020-03-20
-Lamar,Mississippi,2020-03-23
-Monroe,Mississippi,2020-03-16
-Lafayette,Mississippi,2020-03-20
-Kemper,Mississippi,2020-03-27
-Jones,Mississippi,2020-03-19
-Jefferson Davis,Mississippi,2020-04-09
-Jefferson,Mississippi,2020-03-27
-Jasper,Mississippi,2020-04-01
-Jackson,Mississippi,2020-03-17
-Itawamba,Mississippi,2020-03-21
-Marshall,Mississippi,2020-03-20
-Montgomery,Mississippi,2020-03-22
-Tate,Mississippi,2020-03-22
 Quitman,Mississippi,2020-03-26
-Tallahatchie,Mississippi,2020-03-23
-Sunflower,Mississippi,2020-03-22
-Stone,Mississippi,2020-04-05
-Smith,Mississippi,2020-03-20
-Simpson,Mississippi,2020-03-21
-Sharkey,Mississippi,2020-03-27
-Scott,Mississippi,2020-03-19
-Rankin,Mississippi,2020-03-20
-Prentiss,Mississippi,2020-03-25
-Neshoba,Mississippi,2020-03-27
 Pontotoc,Mississippi,2020-03-22
 Pike,Mississippi,2020-03-20
 Perry,Mississippi,2020-03-18
@@ -528,13 +518,55 @@ Panola,Mississippi,2020-03-21
 Oktibbeha,Mississippi,2020-03-22
 Noxubee,Mississippi,2020-03-24
 Newton,Mississippi,2020-03-24
-Crow Wing,Minnesota,2020-04-01
-Clearwater,Minnesota,2020-03-28
-Richland,Louisiana,2020-03-23
-Clay,Minnesota,2020-03-20
-Washington,Maryland,2020-03-21
+Neshoba,Mississippi,2020-03-27
+Montgomery,Mississippi,2020-03-22
+Monroe,Mississippi,2020-03-16
+Marshall,Mississippi,2020-03-20
+Marion,Mississippi,2020-03-23
+Madison,Mississippi,2020-03-18
+Lowndes,Mississippi,2020-03-21
+Lincoln,Mississippi,2020-03-21
+Leflore,Mississippi,2020-03-13
+Lee,Mississippi,2020-03-20
+Leake,Mississippi,2020-03-21
+Prentiss,Mississippi,2020-03-25
+Rankin,Mississippi,2020-03-20
+Yazoo,Mississippi,2020-03-19
+Scott,Mississippi,2020-03-19
+Yalobusha,Mississippi,2020-03-26
+Winston,Mississippi,2020-03-19
+Wilkinson,Mississippi,2020-03-19
+Webster,Mississippi,2020-03-22
+Wayne,Mississippi,2020-04-02
+Washington,Mississippi,2020-03-21
+Warren,Mississippi,2020-03-29
+Walthall,Mississippi,2020-03-19
+Union,Mississippi,2020-03-21
+Tunica,Mississippi,2020-03-21
+Tishomingo,Mississippi,2020-03-31
+Tippah,Mississippi,2020-03-20
+Tate,Mississippi,2020-03-22
+Tallahatchie,Mississippi,2020-03-23
+Sunflower,Mississippi,2020-03-22
+Stone,Mississippi,2020-04-05
+Smith,Mississippi,2020-03-20
+Simpson,Mississippi,2020-03-21
+Sharkey,Mississippi,2020-03-27
+Itasca,Minnesota,2020-03-30
+Houston,Minnesota,2020-04-05
+St. James,Louisiana,2020-03-19
 Unknown,Maryland,2020-04-15
+Franklin,Massachusetts,2020-03-18
+Essex,Massachusetts,2020-03-10
+Dukes,Massachusetts,2020-03-25
+Bristol,Massachusetts,2020-03-14
+Berkshire,Massachusetts,2020-03-07
+Barnstable,Massachusetts,2020-03-14
+Worcester,Maryland,2020-03-20
+Wicomico,Maryland,2020-03-19
+Washington,Maryland,2020-03-21
 Talbot,Maryland,2020-03-16
+Hennepin,Minnesota,2020-03-12
 St. Mary's,Maryland,2020-03-22
 Somerset,Maryland,2020-03-21
 Queen Anne's,Maryland,2020-03-23
@@ -544,17 +576,19 @@ Kent,Maryland,2020-03-25
 Howard,Maryland,2020-03-15
 Harford,Maryland,2020-03-08
 Garrett,Maryland,2020-03-23
-Frederick,Maryland,2020-03-16
-Dorchester,Maryland,2020-04-01
-Charles,Maryland,2020-03-13
-Cecil,Maryland,2020-03-22
-Carroll,Maryland,2020-03-14
-Caroline,Maryland,2020-03-21
-Calvert,Maryland,2020-03-19
-Wicomico,Maryland,2020-03-19
-Worcester,Maryland,2020-03-20
-Barnstable,Massachusetts,2020-03-14
-Plymouth,Massachusetts,2020-03-15
+Hampden,Massachusetts,2020-03-15
+Hampshire,Massachusetts,2020-03-19
+Middlesex,Massachusetts,2020-03-05
+Nantucket,Massachusetts,2020-03-21
+Charlevoix,Michigan,2020-03-13
+Cass,Michigan,2020-03-27
+Calhoun,Michigan,2020-03-21
+Branch,Michigan,2020-03-31
+Berrien,Michigan,2020-03-21
+Benzie,Michigan,2020-04-18
+Bay,Michigan,2020-03-13
+Barry,Michigan,2020-03-21
+Baraga,Michigan,2020-04-16
 Arenac,Michigan,2020-03-31
 Antrim,Michigan,2020-03-30
 Alpena,Michigan,2020-04-11
@@ -563,20 +597,18 @@ Alcona,Michigan,2020-04-15
 Worcester,Massachusetts,2020-03-08
 Unknown,Massachusetts,2020-03-16
 Suffolk,Massachusetts,2020-02-01
+Plymouth,Massachusetts,2020-03-15
 Norfolk,Massachusetts,2020-03-02
-Berkshire,Massachusetts,2020-03-07
-Nantucket,Massachusetts,2020-03-21
-Middlesex,Massachusetts,2020-03-05
-Hampshire,Massachusetts,2020-03-19
-Hampden,Massachusetts,2020-03-15
-Franklin,Massachusetts,2020-03-18
-Essex,Massachusetts,2020-03-10
-Dukes,Massachusetts,2020-03-25
-Bristol,Massachusetts,2020-03-14
-Baltimore city,Maryland,2020-03-15
-Baltimore,Maryland,2020-03-11
-Anne Arundel,Maryland,2020-03-13
-St. Tammany,Louisiana,2020-03-13
+Frederick,Maryland,2020-03-16
+Dorchester,Maryland,2020-04-01
+Charles,Maryland,2020-03-13
+Cumberland,Maine,2020-03-13
+Androscoggin,Maine,2020-03-12
+Winn,Louisiana,2020-03-25
+West Feliciana,Louisiana,2020-03-27
+West Carroll,Louisiana,2020-04-06
+West Baton Rouge,Louisiana,2020-03-19
+Webster,Louisiana,2020-03-19
 Washington,Louisiana,2020-03-17
 Vernon,Louisiana,2020-03-24
 Vermilion,Louisiana,2020-03-26
@@ -585,20 +617,22 @@ Union,Louisiana,2020-03-25
 Terrebonne,Louisiana,2020-03-13
 Tensas,Louisiana,2020-04-11
 Tangipahoa,Louisiana,2020-03-20
+St. Tammany,Louisiana,2020-03-13
 St. Mary,Louisiana,2020-03-21
-West Baton Rouge,Louisiana,2020-03-19
 St. Martin,Louisiana,2020-03-23
 St. Landry,Louisiana,2020-03-19
 St. John the Baptist,Louisiana,2020-03-14
-St. James,Louisiana,2020-03-19
-St. Helena,Louisiana,2020-03-31
-St. Charles,Louisiana,2020-03-13
-St. Bernard,Louisiana,2020-03-15
-Sabine,Louisiana,2020-03-29
-Webster,Louisiana,2020-03-19
-West Carroll,Louisiana,2020-04-06
+Aroostook,Maine,2020-04-03
+Franklin,Maine,2020-03-26
+Cecil,Maryland,2020-03-22
+Hancock,Maine,2020-04-01
+Carroll,Maryland,2020-03-14
+Caroline,Maryland,2020-03-21
+Calvert,Maryland,2020-03-19
+Baltimore city,Maryland,2020-03-15
+Baltimore,Maryland,2020-03-11
+Anne Arundel,Maryland,2020-03-13
 Allegany,Maryland,2020-04-02
-Oxford,Maine,2020-03-17
 York,Maine,2020-03-17
 Washington,Maine,2020-04-03
 Waldo,Maine,2020-03-24
@@ -607,53 +641,14 @@ Somerset,Maine,2020-03-29
 Sagadahoc,Maine,2020-03-21
 Piscataquis,Maine,2020-04-19
 Penobscot,Maine,2020-03-18
+Oxford,Maine,2020-03-17
 Lincoln,Maine,2020-03-15
-West Feliciana,Louisiana,2020-03-27
 Knox,Maine,2020-03-23
 Kennebec,Maine,2020-03-17
-Hancock,Maine,2020-04-01
-Franklin,Maine,2020-03-26
-Cumberland,Maine,2020-03-13
-Aroostook,Maine,2020-04-03
-Androscoggin,Maine,2020-03-12
-Winn,Louisiana,2020-03-25
-Baraga,Michigan,2020-04-16
-Barry,Michigan,2020-03-21
-Bay,Michigan,2020-03-13
-Osceola,Michigan,2020-03-28
-Schoolcraft,Michigan,2020-03-31
-Sanilac,Michigan,2020-03-25
-Saginaw,Michigan,2020-03-21
-Roscommon,Michigan,2020-03-22
-Presque Isle,Michigan,2020-04-03
-Ottawa,Michigan,2020-03-15
-Otsego,Michigan,2020-03-17
-Oscoda,Michigan,2020-03-31
-Ogemaw,Michigan,2020-03-26
-St. Clair,Michigan,2020-03-12
-Oceana,Michigan,2020-03-26
-Oakland,Michigan,2020-03-10
-Newaygo,Michigan,2020-03-23
-Muskegon,Michigan,2020-03-23
-Montmorency,Michigan,2020-04-13
-Montcalm,Michigan,2020-03-12
-Monroe,Michigan,2020-03-14
-Missaukee,Michigan,2020-03-26
-Shiawassee,Michigan,2020-03-26
-St. Joseph,Michigan,2020-03-30
-Menominee,Michigan,2020-04-10
-Benton,Minnesota,2020-03-16
-Chisago,Minnesota,2020-03-20
-Chippewa,Minnesota,2020-04-20
-Cass,Minnesota,2020-03-23
-Carver,Minnesota,2020-03-08
-Carlton,Minnesota,2020-03-31
-Brown,Minnesota,2020-03-31
-Blue Earth,Minnesota,2020-03-16
-Big Stone,Minnesota,2020-03-23
+Cheboygan,Michigan,2020-03-29
+Chippewa,Michigan,2020-03-23
+Clare,Michigan,2020-03-21
 Beltrami,Minnesota,2020-03-27
-Tuscola,Michigan,2020-03-21
-Becker,Minnesota,2020-04-11
 Anoka,Minnesota,2020-03-10
 Aitkin,Minnesota,2020-04-17
 Wexford,Michigan,2020-03-21
@@ -661,54 +656,92 @@ Wayne,Michigan,2020-03-10
 Washtenaw,Michigan,2020-03-12
 Van Buren,Michigan,2020-03-25
 Unknown,Michigan,2020-03-26
-Midland,Michigan,2020-03-19
-Mecosta,Michigan,2020-03-26
-Benzie,Michigan,2020-04-05
-Crawford,Michigan,2020-03-27
-Grand Traverse,Michigan,2020-03-22
-Gogebic,Michigan,2020-03-26
-Gladwin,Michigan,2020-03-22
-Genesee,Michigan,2020-03-19
-Emmet,Michigan,2020-03-22
-Eaton,Michigan,2020-03-19
-Dickinson,Michigan,2020-03-27
-Delta,Michigan,2020-03-30
+Tuscola,Michigan,2020-03-21
+St. Joseph,Michigan,2020-03-30
+St. Clair,Michigan,2020-03-12
+Shiawassee,Michigan,2020-03-26
+Schoolcraft,Michigan,2020-04-08
+Sanilac,Michigan,2020-03-25
+Saginaw,Michigan,2020-03-21
+Roscommon,Michigan,2020-03-22
+Presque Isle,Michigan,2020-04-06
+Ottawa,Michigan,2020-03-15
+Otsego,Michigan,2020-03-17
+Oscoda,Michigan,2020-03-31
+Becker,Minnesota,2020-04-11
+Benton,Minnesota,2020-03-16
+Ontonagon,Michigan,2020-05-21
+Big Stone,Minnesota,2020-03-23
+Grant,Minnesota,2020-05-02
+Goodhue,Minnesota,2020-03-25
+Freeborn,Minnesota,2020-04-01
+Fillmore,Minnesota,2020-03-20
+Faribault,Minnesota,2020-03-27
+Douglas,Minnesota,2020-03-29
+Dodge,Minnesota,2020-03-21
+Dakota,Minnesota,2020-03-12
+Crow Wing,Minnesota,2020-04-01
+Cottonwood,Minnesota,2020-03-29
+Clearwater,Minnesota,2020-03-28
+Clay,Minnesota,2020-03-20
+Chisago,Minnesota,2020-03-20
+Chippewa,Minnesota,2020-04-20
+Cass,Minnesota,2020-03-23
+Carver,Minnesota,2020-03-08
+Carlton,Minnesota,2020-03-31
+Brown,Minnesota,2020-03-31
+Blue Earth,Minnesota,2020-03-16
+Osceola,Michigan,2020-03-28
+Ogemaw,Michigan,2020-03-26
 Clinton,Michigan,2020-03-19
-Hillsdale,Michigan,2020-03-24
-Clare,Michigan,2020-03-21
-Chippewa,Michigan,2020-03-23
-Cheboygan,Michigan,2020-03-29
-Charlevoix,Michigan,2020-03-13
-Cass,Michigan,2020-03-27
-Calhoun,Michigan,2020-03-21
-Branch,Michigan,2020-03-31
-Berrien,Michigan,2020-03-21
-Gratiot,Michigan,2020-03-27
-Houghton,Michigan,2020-03-30
-Mason,Michigan,2020-04-07
-Lapeer,Michigan,2020-03-24
-Marquette,Michigan,2020-03-25
-Manistee,Michigan,2020-03-24
-Macomb,Michigan,2020-03-13
-Mackinac,Michigan,2020-04-01
-Luce,Michigan,2020-03-25
-Livingston,Michigan,2020-03-19
-Lenawee,Michigan,2020-03-25
-Leelanau,Michigan,2020-03-13
-Lake,Michigan,2020-04-11
-Huron,Michigan,2020-03-27
 Kent,Michigan,2020-03-12
-Kalkaska,Michigan,2020-03-24
 Kalamazoo,Michigan,2020-03-23
 Jackson,Michigan,2020-03-17
 Isabella,Michigan,2020-03-24
 Iosco,Michigan,2020-03-25
 Ionia,Michigan,2020-03-26
 Ingham,Michigan,2020-03-12
-Monroe,Indiana,2020-03-22
-Martin,Indiana,2020-04-04
-Franklin,Missouri,2020-03-24
-Contra Costa,California,2020-03-03
+Huron,Michigan,2020-03-27
+Houghton,Michigan,2020-03-30
+Hillsdale,Michigan,2020-03-24
+Gratiot,Michigan,2020-03-27
+Grand Traverse,Michigan,2020-03-22
+Gogebic,Michigan,2020-03-26
+Gladwin,Michigan,2020-03-22
+Genesee,Michigan,2020-03-19
+Emmet,Michigan,2020-03-22
+Eaton,Michigan,2020-03-19
+Dickinson,Michigan,2020-04-02
+Delta,Michigan,2020-03-30
+Crawford,Michigan,2020-03-27
+Kalkaska,Michigan,2020-03-24
+Lake,Michigan,2020-04-11
+Oceana,Michigan,2020-03-26
+Lapeer,Michigan,2020-03-24
+Oakland,Michigan,2020-03-10
+Newaygo,Michigan,2020-03-23
+Muskegon,Michigan,2020-03-23
+Montmorency,Michigan,2020-04-13
+Montcalm,Michigan,2020-03-12
+Monroe,Michigan,2020-03-14
+Missaukee,Michigan,2020-03-26
+Midland,Michigan,2020-03-19
+Menominee,Michigan,2020-04-10
+Mecosta,Michigan,2020-03-26
+Mason,Michigan,2020-04-07
+Marquette,Michigan,2020-03-25
+Manistee,Michigan,2020-03-24
+Macomb,Michigan,2020-03-13
+Mackinac,Michigan,2020-04-01
+Luce,Michigan,2020-04-03
+Livingston,Michigan,2020-03-19
+Lenawee,Michigan,2020-03-25
+Leelanau,Michigan,2020-03-13
+Randolph,Indiana,2020-03-27
+Putnam,Indiana,2020-03-22
+Pulaski,Indiana,2020-04-06
+Conejos,Colorado,2020-05-07
+Elbert,Colorado,2020-03-21
 El Paso,Colorado,2020-03-06
 Eagle,Colorado,2020-03-06
 Douglas,Colorado,2020-03-05
@@ -718,20 +751,22 @@ Custer,Colorado,2020-04-02
 Crowley,Colorado,2020-03-19
 Costilla,Colorado,2020-03-27
 Clear Creek,Colorado,2020-03-13
+El Dorado,California,2020-03-21
+Cheyenne,Colorado,2020-05-07
 Chaffee,Colorado,2020-03-21
 Broomfield,Colorado,2020-03-20
 Boulder,Colorado,2020-03-14
+Bent,Colorado,2020-05-10
 Baca,Colorado,2020-03-28
 Archuleta,Colorado,2020-03-30
 Arapahoe,Colorado,2020-03-09
 Alamosa,Colorado,2020-03-27
-Adams,Colorado,2020-03-12
-Yuba,California,2020-03-21
-Yolo,California,2020-03-06
-Elbert,Colorado,2020-03-21
 Fremont,Colorado,2020-03-24
 Garfield,Colorado,2020-03-15
-Las Animas,Colorado,2020-04-03
+Gilpin,Colorado,2020-04-09
+Grand,Colorado,2020-03-19
+Ouray,Colorado,2020-04-04
+Otero,Colorado,2020-03-25
 Morgan,Colorado,2020-03-19
 Montrose,Colorado,2020-03-21
 Montezuma,Colorado,2020-03-29
@@ -740,8 +775,8 @@ Mineral,Colorado,2020-03-29
 Mesa,Colorado,2020-03-14
 Logan,Colorado,2020-03-23
 Lincoln,Colorado,2020-03-27
+Las Animas,Colorado,2020-04-03
 Larimer,Colorado,2020-03-09
-Gilpin,Colorado,2020-04-09
 Lake,Colorado,2020-03-31
 La Plata,Colorado,2020-03-23
 Kit Carson,Colorado,2020-03-26
@@ -749,33 +784,36 @@ Jefferson,Colorado,2020-03-05
 Huerfano,Colorado,2020-03-24
 Hinsdale,Colorado,2020-03-21
 Gunnison,Colorado,2020-03-10
-Grand,Colorado,2020-03-19
-Ventura,California,2020-03-10
-Unknown,California,2020-03-22
-Tuolumne,California,2020-03-29
-Los Angeles,California,2020-01-26
+Adams,Colorado,2020-03-12
+Yuba,California,2020-03-21
+Yolo,California,2020-03-06
+Riverside,California,2020-03-07
+Placer,California,2020-03-02
+Orange,California,2020-01-25
 Nevada,California,2020-03-16
 Napa,California,2020-02-26
 Monterey,California,2020-03-17
 Mono,California,2020-03-24
 Merced,California,2020-03-24
 Mendocino,California,2020-03-18
+Mariposa,California,2020-04-28
 Marin,California,2020-02-26
 Madera,California,2020-03-07
+Los Angeles,California,2020-01-26
 Lake,California,2020-04-06
-Placer,California,2020-03-02
 Kings,California,2020-03-27
 Kern,California,2020-03-17
 Inyo,California,2020-03-25
 Imperial,California,2020-03-20
 Humboldt,California,2020-02-20
 Glenn,California,2020-03-28
-Fresno,California,2020-03-07
-El Dorado,California,2020-03-21
-Orange,California,2020-01-25
 Plumas,California,2020-03-31
+Sacramento,California,2020-02-21
+Ventura,California,2020-03-10
+San Benito,California,2020-03-13
+Tuolumne,California,2020-03-29
 Tulare,California,2020-03-12
-Santa Clara,California,2020-01-31
+Trinity,California,2020-05-10
 Tehama,California,2020-04-03
 Sutter,California,2020-03-25
 Stanislaus,California,2020-03-11
@@ -784,20 +822,22 @@ Solano,California,2020-02-24
 Siskiyou,California,2020-03-21
 Shasta,California,2020-03-09
 Santa Cruz,California,2020-03-07
+Santa Clara,California,2020-01-31
 Santa Barbara,California,2020-03-15
-Riverside,California,2020-03-07
 San Mateo,California,2020-03-02
 San Luis Obispo,California,2020-03-14
 San Joaquin,California,2020-03-10
 San Francisco,California,2020-02-02
 San Diego,California,2020-02-10
 San Bernardino,California,2020-03-15
-San Benito,California,2020-03-13
-Sacramento,California,2020-02-21
-Otero,Colorado,2020-03-25
-Ouray,Colorado,2020-04-04
 Park,Colorado,2020-03-20
-Hernando,Florida,2020-03-19
+Phillips,Colorado,2020-03-30
+Pitkin,Colorado,2020-03-11
+Manatee,Florida,2020-03-01
+Liberty,Florida,2020-04-10
+Levy,Florida,2020-03-27
+Leon,Florida,2020-03-18
+Lee,Florida,2020-03-06
 Lake,Florida,2020-03-16
 Lafayette,Florida,2020-04-08
 Jefferson,Florida,2020-04-04
@@ -806,20 +846,22 @@ Indian River,Florida,2020-03-19
 Holmes,Florida,2020-03-30
 Hillsborough,Florida,2020-03-01
 Highlands,Florida,2020-03-21
+Hernando,Florida,2020-03-19
 Hendry,Florida,2020-03-28
-Leon,Florida,2020-03-18
 Hardee,Florida,2020-04-01
 Hamilton,Florida,2020-04-06
 Gulf,Florida,2020-04-01
 Glades,Florida,2020-03-29
 Gilchrist,Florida,2020-04-07
-Gadsden,Florida,2020-03-25
+Madison,Florida,2020-04-01
+Marion,Florida,2020-03-21
 Franklin,Florida,2020-04-03
-Flagler,Florida,2020-03-22
-Lee,Florida,2020-03-06
-Levy,Florida,2020-03-27
-Duval,Florida,2020-03-12
-Orange,Florida,2020-03-13
+Martin,Florida,2020-03-19
+Suwannee,Florida,2020-03-27
+Sumter,Florida,2020-03-18
+St. Lucie,Florida,2020-03-21
+St. Johns,Florida,2020-03-11
+Seminole,Florida,2020-03-12
 Sarasota,Florida,2020-03-12
 Santa Rosa,Florida,2020-03-05
 Putnam,Florida,2020-03-21
@@ -828,20 +870,18 @@ Pinellas,Florida,2020-03-10
 Pasco,Florida,2020-03-10
 Palm Beach,Florida,2020-03-12
 Osceola,Florida,2020-03-13
+Orange,Florida,2020-03-13
 Okeechobee,Florida,2020-04-01
-Liberty,Florida,2020-04-10
 Okaloosa,Florida,2020-03-07
 Nassau,Florida,2020-03-10
 Monroe,Florida,2020-03-20
 Miami-Dade,Florida,2020-03-11
-Martin,Florida,2020-03-19
-Marion,Florida,2020-03-21
-Manatee,Florida,2020-03-01
-Madison,Florida,2020-04-01
-Escambia,Florida,2020-03-16
-Dixie,Florida,2020-04-04
-Phillips,Colorado,2020-03-30
-Teller,Colorado,2020-03-23
+Gadsden,Florida,2020-03-25
+Flagler,Florida,2020-03-22
+Prowers,Colorado,2020-04-09
+Unknown,Connecticut,2020-03-30
+New London,Connecticut,2020-03-20
+New Haven,Connecticut,2020-03-14
 Middlesex,Connecticut,2020-03-18
 Litchfield,Connecticut,2020-03-12
 Hartford,Connecticut,2020-03-14
@@ -850,20 +890,22 @@ Yuma,Colorado,2020-03-18
 Weld,Colorado,2020-03-13
 Washington,Colorado,2020-03-26
 Unknown,Colorado,2020-03-22
+Teller,Colorado,2020-03-23
 Summit,Colorado,2020-03-13
-New London,Connecticut,2020-03-20
 San Miguel,Colorado,2020-03-20
+San Juan,Colorado,2020-05-06
 Saguache,Colorado,2020-03-31
 Routt,Colorado,2020-03-13
 Rio Grande,Colorado,2020-03-26
 Rio Blanco,Colorado,2020-04-03
 Pueblo,Colorado,2020-03-13
-Prowers,Colorado,2020-04-09
-Pitkin,Colorado,2020-03-11
-New Haven,Connecticut,2020-03-14
 Tolland,Connecticut,2020-03-19
+Windham,Connecticut,2020-03-19
+Escambia,Florida,2020-03-16
+Kent,Delaware,2020-03-18
+Duval,Florida,2020-03-12
+Dixie,Florida,2020-04-04
 DeSoto,Florida,2020-03-22
-Bradford,Florida,2020-03-22
 Columbia,Florida,2020-03-22
 Collier,Florida,2020-03-10
 Clay,Florida,2020-03-12
@@ -872,65 +914,66 @@ Charlotte,Florida,2020-03-07
 Calhoun,Florida,2020-03-31
 Broward,Florida,2020-03-06
 Brevard,Florida,2020-03-17
+Bradford,Florida,2020-03-22
 Bay,Florida,2020-03-21
-Unknown,Connecticut,2020-03-30
 Baker,Florida,2020-03-15
 Alachua,Florida,2020-03-10
 District of Columbia,District of Columbia,2020-03-07
 Unknown,Delaware,2020-04-10
 Sussex,Delaware,2020-03-17
 New Castle,Delaware,2020-03-11
-Kent,Delaware,2020-03-18
-Windham,Connecticut,2020-03-19
+Fresno,California,2020-03-07
 Del Norte,California,2020-04-02
-Colusa,California,2020-03-27
-St. Johns,Florida,2020-03-11
-Calaveras,California,2020-03-24
+Posey,Indiana,2020-03-26
+Russell,Alabama,2020-03-25
+Washington,Alabama,2020-03-20
+Walker,Alabama,2020-03-19
+Unknown,Alabama,2020-05-21
 Tuscaloosa,Alabama,2020-03-13
 Tallapoosa,Alabama,2020-03-23
 Talladega,Alabama,2020-03-18
 Sumter,Alabama,2020-03-30
 St. Clair,Alabama,2020-03-17
 Shelby,Alabama,2020-03-15
-Russell,Alabama,2020-03-25
 Randolph,Alabama,2020-03-27
+Contra Costa,California,2020-03-03
 Pike,Alabama,2020-03-25
 Pickens,Alabama,2020-03-25
-Perry,Alabama,2020-04-04
+Perry,Alabama,2020-04-09
 Morgan,Alabama,2020-03-24
 Montgomery,Alabama,2020-03-13
 Monroe,Alabama,2020-03-28
 Mobile,Alabama,2020-03-19
 Marshall,Alabama,2020-03-25
 Marion,Alabama,2020-03-21
-Marengo,Alabama,2020-03-26
-Madison,Alabama,2020-03-17
-Walker,Alabama,2020-03-19
-Washington,Alabama,2020-03-20
 Wilcox,Alabama,2020-03-25
-Petersburg Borough,Alaska,2020-04-04
+Winston,Alabama,2020-03-27
+Anchorage,Alaska,2020-03-12
+Bethel Census Area,Alaska,2020-04-07
 Gila,Arizona,2020-03-28
 Coconino,Arizona,2020-03-18
 Cochise,Arizona,2020-03-21
 Apache,Arizona,2020-03-21
 Yukon-Koyukuk Census Area,Alaska,2020-04-02
+Valdez-Cordova Census Area,Alaska,2020-05-07
+Unknown,Alaska,2020-04-02
 Southeast Fairbanks Census Area,Alaska,2020-04-03
 Sitka City and Borough,Alaska,2020-04-26
 Prince of Wales-Hyder Census Area,Alaska,2020-04-11
+Petersburg Borough,Alaska,2020-04-06
+Northwest Arctic Borough,Alaska,2020-05-20
 Nome Census Area,Alaska,2020-04-15
-Winston,Alabama,2020-03-27
 Matanuska-Susitna Borough,Alaska,2020-03-23
 Kodiak Island Borough,Alaska,2020-04-16
 Ketchikan Gateway Borough,Alaska,2020-03-17
 Kenai Peninsula Borough,Alaska,2020-03-18
 Juneau City and Borough,Alaska,2020-03-23
 Fairbanks North Star Borough,Alaska,2020-03-16
-Bethel Census Area,Alaska,2020-04-07
-Anchorage,Alaska,2020-03-12
+Marengo,Alabama,2020-03-26
+Madison,Alabama,2020-03-17
 Macon,Alabama,2020-03-29
-Lowndes,Alabama,2020-03-26
-Limestone,Alabama,2020-03-13
-Cherokee,Alabama,2020-03-25
+Crenshaw,Alabama,2020-03-26
+Coosa,Alabama,2020-03-26
 Conecuh,Alabama,2020-04-01
 Colbert,Alabama,2020-03-25
 Coffee,Alabama,2020-04-02
@@ -939,8 +982,8 @@ Clay,Alabama,2020-03-25
 Clarke,Alabama,2020-04-01
 Choctaw,Alabama,2020-03-26
 Chilton,Alabama,2020-03-25
+Cherokee,Alabama,2020-03-25
 Chambers,Alabama,2020-03-19
-Covington,Alabama,2020-03-27
 Calhoun,Alabama,2020-03-18
 Butler,Alabama,2020-03-25
 Bullock,Alabama,2020-03-26
@@ -949,10 +992,12 @@ Bibb,Alabama,2020-03-30
 Barbour,Alabama,2020-04-03
 Baldwin,Alabama,2020-03-14
 Autauga,Alabama,2020-03-24
-Coosa,Alabama,2020-03-26
-Crenshaw,Alabama,2020-03-26
+Covington,Alabama,2020-03-27
+Cullman,Alabama,2020-03-20
+Lowndes,Alabama,2020-03-26
+Dale,Alabama,2020-04-01
+Limestone,Alabama,2020-03-13
 Lee,Alabama,2020-03-15
-Greene,Alabama,2020-03-27
 Lawrence,Alabama,2020-03-25
 Lauderdale,Alabama,2020-03-20
 Lamar,Alabama,2020-03-20
@@ -961,8 +1006,8 @@ Jackson,Alabama,2020-03-20
 Houston,Alabama,2020-03-23
 Henry,Alabama,2020-04-03
 Hale,Alabama,2020-03-30
-Geneva,Alabama,2020-04-08
-Cullman,Alabama,2020-03-20
+Greene,Alabama,2020-03-27
+Geneva,Alabama,2020-04-12
 Franklin,Alabama,2020-03-23
 Fayette,Alabama,2020-03-30
 Etowah,Alabama,2020-03-25
@@ -970,11 +1015,11 @@ Escambia,Alabama,2020-03-27
 Elmore,Alabama,2020-03-13
 DeKalb,Alabama,2020-03-26
 Dallas,Alabama,2020-03-25
-Dale,Alabama,2020-04-01
 Graham,Arizona,2020-03-14
 Greenlee,Arizona,2020-03-30
 La Paz,Arizona,2020-03-26
-Nevada,Arkansas,2020-03-29
+Randolph,Arkansas,2020-03-26
+Prairie,Arkansas,2020-04-03
 Pope,Arkansas,2020-03-19
 Polk,Arkansas,2020-03-19
 Poinsett,Arkansas,2020-03-19
@@ -983,20 +1028,22 @@ Phillips,Arkansas,2020-04-05
 Perry,Arkansas,2020-03-29
 Ouachita,Arkansas,2020-04-02
 Newton,Arkansas,2020-03-30
+Nevada,Arkansas,2020-03-29
+Montgomery,Arkansas,2020-04-28
 Monroe,Arkansas,2020-04-02
-Pulaski,Arkansas,2020-03-12
 Mississippi,Arkansas,2020-04-02
 Miller,Arkansas,2020-03-31
 Marion,Arkansas,2020-04-10
 Madison,Arkansas,2020-04-08
 Lonoke,Arkansas,2020-03-26
 Logan,Arkansas,2020-04-06
-Lincoln,Arkansas,2020-03-16
+Little River,Arkansas,2020-05-16
+Pulaski,Arkansas,2020-03-12
+Saline,Arkansas,2020-03-15
 Lee,Arkansas,2020-04-01
-Prairie,Arkansas,2020-04-03
-Randolph,Arkansas,2020-03-26
-Lafayette,Arkansas,2020-04-03
-Van Buren,Arkansas,2020-03-19
+Scott,Arkansas,2020-03-31
+Colusa,California,2020-03-27
+Calaveras,California,2020-03-24
 Butte,California,2020-03-21
 Amador,California,2020-03-20
 Alpine,California,2020-03-30
@@ -1005,8 +1052,8 @@ Yell,Arkansas,2020-04-05
 Woodruff,Arkansas,2020-03-24
 White,Arkansas,2020-03-24
 Washington,Arkansas,2020-03-18
+Van Buren,Arkansas,2020-03-19
 Unknown,Arkansas,2020-03-20
-Saline,Arkansas,2020-03-15
 Union,Arkansas,2020-03-24
 Stone,Arkansas,2020-03-24
 St. Francis,Arkansas,2020-03-30
@@ -1014,11 +1061,11 @@ Sharp,Arkansas,2020-04-02
 Sevier,Arkansas,2020-03-19
 Sebastian,Arkansas,2020-03-19
 Searcy,Arkansas,2020-03-19
-Scott,Arkansas,2020-03-31
+Lincoln,Arkansas,2020-03-16
 Lawrence,Arkansas,2020-03-24
-Johnson,Arkansas,2020-03-28
 Maricopa,Arizona,2020-01-26
-Baxter,Arkansas,2020-03-27
+Conway,Arkansas,2020-03-24
+Cleveland,Arkansas,2020-03-16
 Cleburne,Arkansas,2020-03-16
 Clay,Arkansas,2020-04-06
 Clark,Arkansas,2020-03-19
@@ -1027,8 +1074,8 @@ Carroll,Arkansas,2020-04-01
 Bradley,Arkansas,2020-03-18
 Boone,Arkansas,2020-03-19
 Benton,Arkansas,2020-03-19
+Baxter,Arkansas,2020-03-27
 Ashley,Arkansas,2020-03-29
-Columbia,Arkansas,2020-03-24
 Arkansas,Arkansas,2020-03-29
 Yuma,Arizona,2020-03-20
 Yavapai,Arizona,2020-03-19
@@ -1037,20 +1084,22 @@ Pinal,Arizona,2020-03-06
 Pima,Arizona,2020-03-09
 Navajo,Arizona,2020-03-17
 Mohave,Arizona,2020-03-26
-Cleveland,Arkansas,2020-03-16
-Conway,Arkansas,2020-03-24
+Columbia,Arkansas,2020-03-24
+Craighead,Arkansas,2020-03-19
+Lafayette,Arkansas,2020-04-03
+Crawford,Arkansas,2020-03-24
+Johnson,Arkansas,2020-03-28
 Jefferson,Arkansas,2020-03-11
-Garland,Arkansas,2020-03-15
 Jackson,Arkansas,2020-04-13
 Izard,Arkansas,2020-04-06
 Independence,Arkansas,2020-03-19
 Howard,Arkansas,2020-03-26
 Hot Spring,Arkansas,2020-03-24
-Hempstead,Arkansas,2020-03-24
+Hempstead,Arkansas,2020-03-29
 Greene,Arkansas,2020-03-19
 Grant,Arkansas,2020-03-19
+Garland,Arkansas,2020-03-15
 Fulton,Arkansas,2020-04-23
-Craighead,Arkansas,2020-03-19
 Franklin,Arkansas,2020-04-06
 Faulkner,Arkansas,2020-03-18
 Drew,Arkansas,2020-03-25
@@ -1058,11 +1107,21 @@ Desha,Arkansas,2020-03-16
 Dallas,Arkansas,2020-04-04
 Cross,Arkansas,2020-03-24
 Crittenden,Arkansas,2020-03-19
-Crawford,Arkansas,2020-03-24
-Seminole,Florida,2020-03-12
-St. Lucie,Florida,2020-03-21
-Marshall,Indiana,2020-03-26
-Blaine,Idaho,2020-03-14
+Taylor,Florida,2020-04-07
+Union,Florida,2020-03-31
+Unknown,Florida,2020-03-22
+Jefferson,Illinois,2020-04-06
+Lake,Illinois,2020-03-11
+LaSalle,Illinois,2020-03-18
+Knox,Illinois,2020-03-29
+Kendall,Illinois,2020-03-18
+Kankakee,Illinois,2020-03-18
+Kane,Illinois,2020-03-10
+Johnson,Illinois,2020-04-13
+Jo Daviess,Illinois,2020-03-22
+Jersey,Illinois,2020-04-03
+Jasper,Illinois,2020-04-04
+Volusia,Florida,2020-03-07
 Jackson,Illinois,2020-03-18
 Iroquois,Illinois,2020-03-27
 Henry,Illinois,2020-03-27
@@ -1072,140 +1131,10 @@ Hancock,Illinois,2020-04-08
 Hamilton,Illinois,2020-04-18
 Grundy,Illinois,2020-03-24
 Greene,Illinois,2020-04-10
-Gallatin,Illinois,2020-04-05
-Fulton,Illinois,2020-04-10
-Franklin,Illinois,2020-03-26
-Ford,Illinois,2020-03-31
-Fayette,Illinois,2020-03-28
-Effingham,Illinois,2020-04-03
-DuPage,Illinois,2020-03-14
-Douglas,Illinois,2020-03-25
-DeKalb,Illinois,2020-03-21
-De Witt,Illinois,2020-04-03
-Jasper,Illinois,2020-04-04
-Jefferson,Illinois,2020-04-06
-Jersey,Illinois,2020-04-03
-Livingston,Illinois,2020-03-22
-Massac,Illinois,2020-04-01
-Mason,Illinois,2020-03-31
-Marshall,Illinois,2020-03-25
-Marion,Illinois,2020-03-30
-Madison,Illinois,2020-03-18
-Macoupin,Illinois,2020-04-02
-Macon,Illinois,2020-03-28
-Logan,Illinois,2020-03-25
-Lee,Illinois,2020-04-04
-Jo Daviess,Illinois,2020-03-22
 Lawrence,Illinois,2020-04-07
-Lake,Illinois,2020-03-11
-LaSalle,Illinois,2020-03-18
-Knox,Illinois,2020-03-29
-Kendall,Illinois,2020-03-18
-Kankakee,Illinois,2020-03-18
-Kane,Illinois,2020-03-10
-Johnson,Illinois,2020-04-13
-Cumberland,Illinois,2020-03-14
-Crawford,Illinois,2020-03-30
-Cook,Illinois,2020-01-24
-Gooding,Idaho,2020-04-01
-Madison,Idaho,2020-03-17
-Lincoln,Idaho,2020-03-28
-Lemhi,Idaho,2020-04-25
-Latah,Idaho,2020-04-01
-Kootenai,Idaho,2020-03-20
-Jerome,Idaho,2020-03-30
-Jefferson,Idaho,2020-03-25
-Idaho,Idaho,2020-03-25
-Gem,Idaho,2020-03-27
-Nez Perce,Idaho,2020-03-25
-Fremont,Idaho,2020-03-25
-Elmore,Idaho,2020-03-30
-Custer,Idaho,2020-03-26
-Cassia,Idaho,2020-03-24
-Caribou,Idaho,2020-04-04
-Canyon,Idaho,2020-03-20
-Camas,Idaho,2020-03-31
-Bonneville,Idaho,2020-03-28
-Minidoka,Idaho,2020-03-30
-Owyhee,Idaho,2020-03-29
-Coles,Illinois,2020-04-07
-Bureau,Illinois,2020-03-27
-Clinton,Illinois,2020-03-15
-Clay,Illinois,2020-04-14
-Clark,Illinois,2020-03-30
-Christian,Illinois,2020-03-20
-Champaign,Illinois,2020-03-22
-Cass,Illinois,2020-04-20
-Carroll,Illinois,2020-03-28
-Calhoun,Illinois,2020-04-05
-Boone,Illinois,2020-04-05
-Payette,Idaho,2020-03-25
-Bond,Illinois,2020-03-29
-Alexander,Illinois,2020-04-16
-Adams,Illinois,2020-03-20
-Washington,Idaho,2020-04-02
-Valley,Idaho,2020-03-22
-Twin Falls,Idaho,2020-03-18
-Teton,Idaho,2020-03-14
-Power,Idaho,2020-04-07
-McDonough,Illinois,2020-04-11
-McHenry,Illinois,2020-03-10
-McLean,Illinois,2020-03-20
-Dubois,Indiana,2020-03-23
-Grant,Indiana,2020-03-20
-Gibson,Indiana,2020-03-24
-Fulton,Indiana,2020-03-27
-Franklin,Indiana,2020-03-17
-Fountain,Indiana,2020-03-26
-Floyd,Indiana,2020-03-16
-Fayette,Indiana,2020-03-18
-Elkhart,Indiana,2020-03-21
-Delaware,Indiana,2020-03-21
-Hamilton,Indiana,2020-03-15
-Decatur,Indiana,2020-03-24
-Dearborn,Indiana,2020-03-24
-DeKalb,Indiana,2020-03-25
-Daviess,Indiana,2020-04-05
-Crawford,Indiana,2020-03-28
-Clinton,Indiana,2020-03-27
-Clay,Indiana,2020-03-29
-Clark,Indiana,2020-03-18
-Greene,Indiana,2020-03-29
-Hancock,Indiana,2020-03-21
-Carroll,Indiana,2020-03-27
-Johnson,Indiana,2020-03-11
-Marion,Indiana,2020-03-06
-Madison,Indiana,2020-03-18
-Lawrence,Indiana,2020-03-24
-Lake,Indiana,2020-03-17
-LaPorte,Indiana,2020-03-14
-LaGrange,Indiana,2020-03-27
-Kosciusko,Indiana,2020-03-27
-Knox,Indiana,2020-03-29
-Jennings,Indiana,2020-03-18
-Harrison,Indiana,2020-03-21
-Jefferson,Indiana,2020-03-31
-Jay,Indiana,2020-04-01
-Jasper,Indiana,2020-03-25
-Jackson,Indiana,2020-03-24
-Huntington,Indiana,2020-03-27
-Howard,Indiana,2020-03-11
-Henry,Indiana,2020-03-27
-Hendricks,Indiana,2020-03-08
-Cass,Indiana,2020-03-31
-Brown,Indiana,2020-03-24
-Menard,Illinois,2020-03-29
-Pike,Illinois,2020-04-04
-Shelby,Illinois,2020-04-07
-Schuyler,Illinois,2020-04-09
-Sangamon,Illinois,2020-03-14
-Saline,Illinois,2020-03-30
-Rock Island,Illinois,2020-03-22
-Richland,Illinois,2020-04-07
-Randolph,Illinois,2020-03-30
-Pulaski,Illinois,2020-04-09
-Piatt,Illinois,2020-04-02
-Stark,Illinois,2020-04-08
+Lee,Illinois,2020-04-04
+Livingston,Illinois,2020-03-22
+Logan,Illinois,2020-04-02
 Perry,Illinois,2020-04-11
 Peoria,Illinois,2020-03-16
 Ogle,Illinois,2020-03-31
@@ -1214,32 +1143,166 @@ Morgan,Illinois,2020-03-25
 Montgomery,Illinois,2020-03-29
 Monroe,Illinois,2020-03-23
 Mercer,Illinois,2020-04-02
-St. Clair,Illinois,2020-03-14
-Stephenson,Illinois,2020-03-22
-Boone,Indiana,2020-03-10
+Menard,Illinois,2020-03-29
+McLean,Illinois,2020-03-20
+McHenry,Illinois,2020-03-10
+McDonough,Illinois,2020-04-11
+Massac,Illinois,2020-04-01
+Mason,Illinois,2020-04-04
+Marshall,Illinois,2020-03-25
+Marion,Illinois,2020-03-30
+Madison,Illinois,2020-03-18
+Macoupin,Illinois,2020-04-02
+Macon,Illinois,2020-03-28
+Gallatin,Illinois,2020-04-05
+Fulton,Illinois,2020-04-10
+Franklin,Illinois,2020-03-26
+Boone,Illinois,2020-04-05
+Alexander,Illinois,2020-04-16
+Adams,Illinois,2020-03-20
+Washington,Idaho,2020-04-02
+Valley,Idaho,2020-03-22
+Twin Falls,Idaho,2020-03-18
+Teton,Idaho,2020-03-14
+Power,Idaho,2020-04-07
+Payette,Idaho,2020-03-25
+Owyhee,Idaho,2020-03-29
+Nez Perce,Idaho,2020-03-25
+Minidoka,Idaho,2020-03-30
+Madison,Idaho,2020-03-17
+Lincoln,Idaho,2020-03-28
+Lemhi,Idaho,2020-04-25
+Latah,Idaho,2020-04-01
+Kootenai,Idaho,2020-03-20
+Jerome,Idaho,2020-03-30
+Jefferson,Idaho,2020-03-25
+Idaho,Idaho,2020-03-25
+Bond,Illinois,2020-03-29
+Brown,Illinois,2020-05-01
+Ford,Illinois,2020-03-31
+Bureau,Illinois,2020-03-27
+Fayette,Illinois,2020-03-28
+Effingham,Illinois,2020-04-03
+Edwards,Illinois,2020-05-13
+DuPage,Illinois,2020-03-14
+Douglas,Illinois,2020-03-25
+DeKalb,Illinois,2020-03-21
+De Witt,Illinois,2020-04-03
+Cumberland,Illinois,2020-03-14
+Crawford,Illinois,2020-03-30
+Cook,Illinois,2020-01-24
+Coles,Illinois,2020-04-07
+Clinton,Illinois,2020-03-15
+Clay,Illinois,2020-04-14
+Clark,Illinois,2020-03-30
+Christian,Illinois,2020-03-20
+Champaign,Illinois,2020-03-22
+Cass,Illinois,2020-04-20
+Carroll,Illinois,2020-03-28
+Calhoun,Illinois,2020-04-05
+Piatt,Illinois,2020-04-02
+Pike,Illinois,2020-04-04
+Pope,Illinois,2020-05-08
+Kosciusko,Indiana,2020-03-27
+Johnson,Indiana,2020-03-11
+Jennings,Indiana,2020-03-18
+Jefferson,Indiana,2020-03-31
+Jay,Indiana,2020-04-01
+Jasper,Indiana,2020-03-25
+Jackson,Indiana,2020-03-24
+Huntington,Indiana,2020-03-27
+Howard,Indiana,2020-03-11
+Henry,Indiana,2020-03-27
+Hendricks,Indiana,2020-03-08
+Harrison,Indiana,2020-03-21
+Hancock,Indiana,2020-03-21
+Hamilton,Indiana,2020-03-15
+Greene,Indiana,2020-03-29
+Grant,Indiana,2020-03-20
+Gibson,Indiana,2020-03-24
+Fulton,Indiana,2020-03-27
+Franklin,Indiana,2020-03-17
+Fountain,Indiana,2020-03-26
+Knox,Indiana,2020-03-29
+LaGrange,Indiana,2020-03-27
+Fayette,Indiana,2020-03-18
+LaPorte,Indiana,2020-03-14
+Porter,Indiana,2020-03-24
+Pike,Indiana,2020-04-12
+Perry,Indiana,2020-04-10
+Parke,Indiana,2020-04-03
+Owen,Indiana,2020-03-19
+Orange,Indiana,2020-03-26
+Ohio,Indiana,2020-03-24
+Noble,Indiana,2020-03-09
+Newton,Indiana,2020-03-28
+Morgan,Indiana,2020-03-22
+Montgomery,Indiana,2020-03-24
+Monroe,Indiana,2020-03-22
+Miami,Indiana,2020-03-21
+Martin,Indiana,2020-04-04
+Marshall,Indiana,2020-03-26
+Marion,Indiana,2020-03-06
+Madison,Indiana,2020-03-18
+Lawrence,Indiana,2020-03-24
+Lake,Indiana,2020-03-17
+Floyd,Indiana,2020-03-16
+Elkhart,Indiana,2020-03-21
+Pulaski,Illinois,2020-04-09
 Will,Illinois,2020-03-16
-Blackford,Indiana,2020-04-02
-Benton,Indiana,2020-04-01
-Bartholomew,Indiana,2020-03-16
-Allen,Indiana,2020-03-20
-Adams,Indiana,2020-03-10
-Woodford,Illinois,2020-03-14
-Winnebago,Illinois,2020-03-15
-Williamson,Illinois,2020-03-18
-Whiteside,Illinois,2020-03-15
-Tazewell,Illinois,2020-03-26
 White,Illinois,2020-04-20
 Wayne,Illinois,2020-04-17
 Washington,Illinois,2020-03-18
 Warren,Illinois,2020-04-11
 Wabash,Illinois,2020-04-06
 Vermilion,Illinois,2020-04-01
-Unknown,Illinois,2020-03-23
 Union,Illinois,2020-04-15
-Bonner,Idaho,2020-03-30
-Bingham,Idaho,2020-03-20
-Sumter,Florida,2020-03-18
-Bannock,Idaho,2020-03-24
+Tazewell,Illinois,2020-03-26
+Stephenson,Illinois,2020-03-22
+Stark,Illinois,2020-04-08
+St. Clair,Illinois,2020-03-14
+Shelby,Illinois,2020-04-07
+Schuyler,Illinois,2020-04-09
+Sangamon,Illinois,2020-03-14
+Saline,Illinois,2020-03-30
+Rock Island,Illinois,2020-03-22
+Richland,Illinois,2020-04-07
+Randolph,Illinois,2020-03-30
+Putnam,Illinois,2020-05-16
+Whiteside,Illinois,2020-03-15
+Williamson,Illinois,2020-03-18
+Dubois,Indiana,2020-03-23
+Winnebago,Illinois,2020-03-15
+Delaware,Indiana,2020-03-21
+Decatur,Indiana,2020-03-24
+Dearborn,Indiana,2020-03-24
+DeKalb,Indiana,2020-03-25
+Daviess,Indiana,2020-04-05
+Crawford,Indiana,2020-03-28
+Clinton,Indiana,2020-03-27
+Clay,Indiana,2020-03-29
+Clark,Indiana,2020-03-18
+Cass,Indiana,2020-03-31
+Carroll,Indiana,2020-03-27
+Brown,Indiana,2020-03-24
+Boone,Indiana,2020-03-10
+Blackford,Indiana,2020-04-02
+Benton,Indiana,2020-04-12
+Bartholomew,Indiana,2020-03-16
+Allen,Indiana,2020-03-20
+Adams,Indiana,2020-03-10
+Woodford,Illinois,2020-03-14
+Gooding,Idaho,2020-04-01
+Gem,Idaho,2020-03-27
+Fremont,Idaho,2020-03-25
+Gordon,Georgia,2020-03-13
+Glascock,Georgia,2020-05-07
+Gilmer,Georgia,2020-03-30
+Fulton,Georgia,2020-03-02
+Franklin,Georgia,2020-03-26
+Forsyth,Georgia,2020-03-16
+Floyd,Georgia,2020-03-09
+Fayette,Georgia,2020-03-09
 Fannin,Georgia,2020-03-24
 Evans,Georgia,2020-04-12
 Emanuel,Georgia,2020-03-31
@@ -1252,17 +1315,17 @@ Dougherty,Georgia,2020-03-15
 Dooly,Georgia,2020-03-30
 Dodge,Georgia,2020-03-25
 Decatur,Georgia,2020-03-25
-DeKalb,Georgia,2020-03-09
+Glynn,Georgia,2020-03-19
+Grady,Georgia,2020-03-31
 Dawson,Georgia,2020-03-20
-Dade,Georgia,2020-03-30
-Crisp,Georgia,2020-03-24
-Crawford,Georgia,2020-04-05
-Coweta,Georgia,2020-03-14
-Cook,Georgia,2020-03-30
-Fayette,Georgia,2020-03-09
-Floyd,Georgia,2020-03-09
-Forsyth,Georgia,2020-03-16
-Hancock,Georgia,2020-04-07
+Greene,Georgia,2020-03-24
+Lamar,Georgia,2020-03-20
+Jones,Georgia,2020-03-25
+Johnson,Georgia,2020-03-30
+Jenkins,Georgia,2020-03-28
+Jefferson,Georgia,2020-03-30
+Jeff Davis,Georgia,2020-04-06
+Jasper,Georgia,2020-03-24
 Jackson,Georgia,2020-03-25
 Irwin,Georgia,2020-03-24
 Houston,Georgia,2020-03-18
@@ -1271,20 +1334,20 @@ Heard,Georgia,2020-03-20
 Hart,Georgia,2020-03-27
 Harris,Georgia,2020-03-23
 Haralson,Georgia,2020-03-26
+Hancock,Georgia,2020-04-07
 Hall,Georgia,2020-03-16
-Franklin,Georgia,2020-03-26
 Habersham,Georgia,2020-03-27
 Gwinnett,Georgia,2020-03-07
-Greene,Georgia,2020-03-24
-Grady,Georgia,2020-03-31
-Gordon,Georgia,2020-03-13
-Glynn,Georgia,2020-03-19
-Gilmer,Georgia,2020-03-30
-Fulton,Georgia,2020-03-02
-Columbia,Georgia,2020-03-18
-Colquitt,Georgia,2020-03-24
-Coffee,Georgia,2020-03-22
-Atkinson,Georgia,2020-04-06
+DeKalb,Georgia,2020-03-09
+Dade,Georgia,2020-03-30
+Laurens,Georgia,2020-03-19
+Butts,Georgia,2020-03-22
+Bulloch,Georgia,2020-03-28
+Bryan,Georgia,2020-03-24
+Brooks,Georgia,2020-03-29
+Brantley,Georgia,2020-04-06
+Bleckley,Georgia,2020-03-30
+Bibb,Georgia,2020-03-19
 Berrien,Georgia,2020-03-30
 Ben Hill,Georgia,2020-03-24
 Bartow,Georgia,2020-03-11
@@ -1293,20 +1356,22 @@ Banks,Georgia,2020-03-30
 Baldwin,Georgia,2020-03-21
 Baker,Georgia,2020-03-24
 Bacon,Georgia,2020-03-29
+Atkinson,Georgia,2020-04-06
 Appling,Georgia,2020-03-30
-Bleckley,Georgia,2020-03-30
 Washington,Florida,2020-03-26
 Walton,Florida,2020-03-18
 Wakulla,Florida,2020-03-29
-Volusia,Florida,2020-03-07
-Unknown,Florida,2020-03-22
-Union,Florida,2020-03-31
-Taylor,Florida,2020-04-07
-Suwannee,Florida,2020-03-27
-Bibb,Georgia,2020-03-19
-Brantley,Georgia,2020-04-06
+Burke,Georgia,2020-03-23
+Calhoun,Georgia,2020-03-26
+Crisp,Georgia,2020-03-24
+Camden,Georgia,2020-03-24
+Crawford,Georgia,2020-04-05
+Coweta,Georgia,2020-03-14
+Cook,Georgia,2020-03-30
+Columbia,Georgia,2020-03-18
+Colquitt,Georgia,2020-03-24
+Coffee,Georgia,2020-03-22
 Cobb,Georgia,2020-03-07
-Charlton,Georgia,2020-03-10
 Clinch,Georgia,2020-03-22
 Clayton,Georgia,2020-03-15
 Clay,Georgia,2020-03-30
@@ -1315,20 +1380,23 @@ Cherokee,Georgia,2020-03-08
 Chattooga,Georgia,2020-03-22
 Chattahoochee,Georgia,2020-03-27
 Chatham,Georgia,2020-03-20
+Charlton,Georgia,2020-03-10
 Catoosa,Georgia,2020-03-23
-Brooks,Georgia,2020-03-29
 Carroll,Georgia,2020-03-20
 Candler,Georgia,2020-03-29
-Camden,Georgia,2020-03-24
-Calhoun,Georgia,2020-03-26
-Butts,Georgia,2020-03-22
-Burke,Georgia,2020-03-23
-Bulloch,Georgia,2020-03-28
-Bryan,Georgia,2020-03-24
-Jasper,Georgia,2020-03-24
-Jeff Davis,Georgia,2020-03-30
-Jefferson,Georgia,2020-03-30
-Tift,Georgia,2020-03-20
+Lanier,Georgia,2020-04-01
+Lee,Georgia,2020-03-11
+Elmore,Idaho,2020-03-30
+Whitfield,Georgia,2020-03-17
+Wheeler,Georgia,2020-03-28
+Webster,Georgia,2020-03-31
+Wayne,Georgia,2020-04-04
+Washington,Georgia,2020-03-23
+Warren,Georgia,2020-03-30
+Ware,Georgia,2020-03-25
+Walton,Georgia,2020-03-28
+Walker,Georgia,2020-03-31
+Upson,Georgia,2020-03-27
 Unknown,Georgia,2020-03-20
 Union,Georgia,2020-04-01
 Twiggs,Georgia,2020-03-22
@@ -1337,20 +1405,22 @@ Troup,Georgia,2020-03-16
 Treutlen,Georgia,2020-04-06
 Towns,Georgia,2020-04-03
 Toombs,Georgia,2020-03-26
+Tift,Georgia,2020-03-20
 Thomas,Georgia,2020-03-25
-Walker,Georgia,2020-03-31
-Terrell,Georgia,2020-03-20
-Telfair,Georgia,2020-03-24
-Taylor,Georgia,2020-03-25
-Tattnall,Georgia,2020-03-22
-Talbot,Georgia,2020-03-30
-Sumter,Georgia,2020-03-20
-Stewart,Georgia,2020-03-31
-Stephens,Georgia,2020-03-24
-Upson,Georgia,2020-03-27
-Walton,Georgia,2020-03-24
-Seminole,Georgia,2020-03-24
-Wilkinson,Georgia,2020-03-31
+White,Georgia,2020-03-25
+Wilcox,Georgia,2020-03-31
+Telfair,Georgia,2020-04-02
+Wilkes,Georgia,2020-03-25
+Custer,Idaho,2020-03-26
+Cassia,Idaho,2020-03-24
+Caribou,Idaho,2020-04-04
+Canyon,Idaho,2020-03-20
+Camas,Idaho,2020-03-31
+Bonneville,Idaho,2020-03-28
+Bonner,Idaho,2020-03-30
+Blaine,Idaho,2020-03-14
+Bingham,Idaho,2020-03-20
+Bannock,Idaho,2020-03-24
 Adams,Idaho,2020-03-31
 Ada,Idaho,2020-03-13
 Maui,Hawaii,2020-03-15
@@ -1359,20 +1429,19 @@ Honolulu,Hawaii,2020-03-06
 Hawaii,Hawaii,2020-03-17
 Unknown,Guam,2020-03-15
 Worth,Georgia,2020-03-20
-Wilkes,Georgia,2020-03-25
-Ware,Georgia,2020-03-25
-Wilcox,Georgia,2020-03-31
-Whitfield,Georgia,2020-03-17
-White,Georgia,2020-03-25
-Wheeler,Georgia,2020-03-28
-Webster,Georgia,2020-03-31
-Wayne,Georgia,2020-04-04
-Washington,Georgia,2020-03-23
-Warren,Georgia,2020-03-30
-Spalding,Georgia,2020-03-20
-Screven,Georgia,2020-03-31
-Jenkins,Georgia,2020-03-28
-Lowndes,Georgia,2020-03-11
+Wilkinson,Georgia,2020-03-31
+Terrell,Georgia,2020-03-20
+Taylor,Georgia,2020-03-25
+Liberty,Georgia,2020-03-23
+Paulding,Georgia,2020-03-16
+Oconee,Georgia,2020-03-20
+Newton,Georgia,2020-03-15
+Muscogee,Georgia,2020-03-20
+Murray,Georgia,2020-03-28
+Morgan,Georgia,2020-03-23
+Montgomery,Georgia,2020-04-11
+Monroe,Georgia,2020-03-20
+Mitchell,Georgia,2020-03-24
 Miller,Georgia,2020-03-20
 Meriwether,Georgia,2020-03-24
 McIntosh,Georgia,2020-03-30
@@ -1381,20 +1450,22 @@ Marion,Georgia,2020-04-03
 Madison,Georgia,2020-03-23
 Macon,Georgia,2020-03-24
 Lumpkin,Georgia,2020-03-21
+Lowndes,Georgia,2020-03-11
 Long,Georgia,2020-03-25
-Monroe,Georgia,2020-03-20
 Lincoln,Georgia,2020-03-20
-Liberty,Georgia,2020-03-23
-Lee,Georgia,2020-03-11
-Laurens,Georgia,2020-03-19
-Lanier,Georgia,2020-04-01
-Lamar,Georgia,2020-03-20
-Jones,Georgia,2020-03-25
-Johnson,Georgia,2020-03-30
-Mitchell,Georgia,2020-03-24
-Montgomery,Georgia,2020-04-11
+Oglethorpe,Georgia,2020-03-31
+Peach,Georgia,2020-03-19
+Tattnall,Georgia,2020-03-22
+Pickens,Georgia,2020-03-20
+Taliaferro,Georgia,2020-05-03
+Talbot,Georgia,2020-03-30
+Sumter,Georgia,2020-03-20
+Stewart,Georgia,2020-03-31
+Stephens,Georgia,2020-03-24
+Spalding,Georgia,2020-03-20
+Seminole,Georgia,2020-03-24
+Screven,Georgia,2020-03-31
 Schley,Georgia,2020-03-30
-Pike,Georgia,2020-03-28
 Rockdale,Georgia,2020-03-19
 Richmond,Georgia,2020-03-17
 Randolph,Georgia,2020-03-20
@@ -1403,53 +1474,47 @@ Quitman,Georgia,2020-04-03
 Putnam,Georgia,2020-04-01
 Pulaski,Georgia,2020-03-24
 Polk,Georgia,2020-03-06
+Pike,Georgia,2020-03-28
 Pierce,Georgia,2020-03-23
-Morgan,Georgia,2020-03-23
-Pickens,Georgia,2020-03-20
-Peach,Georgia,2020-03-19
-Paulding,Georgia,2020-03-16
-Oglethorpe,Georgia,2020-03-31
-Oconee,Georgia,2020-03-20
-Newton,Georgia,2020-03-15
-Muscogee,Georgia,2020-03-20
-Murray,Georgia,2020-03-28
-Dunklin,Missouri,2020-03-20
-Newton,Indiana,2020-03-28
-Gasconade,Missouri,2020-04-01
-Kendall,Texas,2020-03-25
+Johnson,Missouri,2020-03-21
+Scott,Indiana,2020-03-22
+Laclede,Missouri,2020-05-09
+Grimes,Texas,2020-03-25
+Hartley,Texas,2020-04-20
 Harrison,Texas,2020-03-27
 Harris,Texas,2020-03-05
 Hardin,Texas,2020-03-25
 Hansford,Texas,2020-04-07
 Hamilton,Texas,2020-04-07
+Hall,Texas,2020-05-20
 Hale,Texas,2020-03-25
 Guadalupe,Texas,2020-03-25
-Grimes,Texas,2020-03-25
 Gregg,Texas,2020-03-11
+Cameron,Texas,2020-03-19
 Grayson,Texas,2020-03-24
 Gray,Texas,2020-04-01
 Gonzales,Texas,2020-04-01
 Goliad,Texas,2020-04-02
+Glasscock,Texas,2020-04-30
 Gillespie,Texas,2020-04-02
+Garza,Texas,2020-04-30
 Galveston,Texas,2020-03-13
 Gaines,Texas,2020-03-25
-Frio,Texas,2020-04-08
-Freestone,Texas,2020-04-15
-Franklin,Texas,2020-03-29
-Hartley,Texas,2020-04-20
+Haskell,Texas,2020-05-15
 Hays,Texas,2020-03-14
 Hemphill,Texas,2020-04-04
-Jack,Texas,2020-04-09
+Henderson,Texas,2020-03-29
+Kaufman,Texas,2020-03-25
 Karnes,Texas,2020-03-26
 Jones,Texas,2020-04-08
 Johnson,Texas,2020-03-19
-Jim Wells,Texas,2020-03-30
+Jim Wells,Texas,2020-04-02
 Jim Hogg,Texas,2020-04-23
 Jefferson,Texas,2020-03-24
 Jasper,Texas,2020-04-02
 Jackson,Texas,2020-03-26
+Jack,Texas,2020-04-09
 Hutchinson,Texas,2020-04-04
-Henderson,Texas,2020-03-29
 Hunt,Texas,2020-03-25
 Howard,Texas,2020-04-10
 Houston,Texas,2020-04-19
@@ -1458,32 +1523,37 @@ Hood,Texas,2020-03-27
 Hockley,Texas,2020-03-20
 Hill,Texas,2020-03-30
 Hidalgo,Texas,2020-03-24
-Fort Bend,Texas,2020-03-04
-Floyd,Texas,2020-04-08
-Fayette,Texas,2020-03-25
-Cherokee,Texas,2020-03-27
+Frio,Texas,2020-04-08
+Freestone,Texas,2020-04-15
+Franklin,Texas,2020-03-29
+Crosby,Texas,2020-04-07
+Cottle,Texas,2020-04-27
+Coryell,Texas,2020-03-25
+Cooke,Texas,2020-04-10
 Concho,Texas,2020-04-10
 Comanche,Texas,2020-04-01
 Comal,Texas,2020-03-24
 Colorado,Texas,2020-04-01
+Collingsworth,Texas,2020-05-05
 Collin,Texas,2020-03-09
+Coleman,Texas,2020-05-02
+Coke,Texas,2020-05-05
 Cochran,Texas,2020-04-23
 Clay,Texas,2020-04-01
 Childress,Texas,2020-04-19
+Cherokee,Texas,2020-03-27
 Chambers,Texas,2020-03-24
-Coryell,Texas,2020-03-25
 Castro,Texas,2020-03-21
 Cass,Texas,2020-03-20
 Carson,Texas,2020-04-18
-Camp,Texas,2020-04-01
-Cameron,Texas,2020-03-19
-Callahan,Texas,2020-04-07
-Calhoun,Texas,2020-03-26
-Caldwell,Texas,2020-03-28
-Cooke,Texas,2020-03-26
-Cottle,Texas,2020-04-27
+Crane,Texas,2020-03-19
+Dallam,Texas,2020-04-07
+Fort Bend,Texas,2020-03-04
+Dallas,Texas,2020-03-10
+Floyd,Texas,2020-04-08
+Fisher,Texas,2020-05-15
+Fayette,Texas,2020-03-25
 Fannin,Texas,2020-03-20
-Dimmit,Texas,2020-04-11
 Falls,Texas,2020-03-24
 Erath,Texas,2020-03-25
 Ellis,Texas,2020-03-17
@@ -1492,53 +1562,46 @@ Ector,Texas,2020-03-29
 Eastland,Texas,2020-03-25
 Duval,Texas,2020-04-14
 Donley,Texas,2020-04-02
+Dimmit,Texas,2020-04-11
 Dickens,Texas,2020-04-08
-Crane,Texas,2020-03-19
 Denton,Texas,2020-03-15
 Delta,Texas,2020-04-08
 Deaf Smith,Texas,2020-03-21
 DeWitt,Texas,2020-03-19
 Dawson,Texas,2020-03-29
-Dallas,Texas,2020-03-10
-Dallam,Texas,2020-04-07
-Crosby,Texas,2020-04-07
-Kaufman,Texas,2020-03-25
+Kendall,Texas,2020-03-25
 Kerr,Texas,2020-04-01
-Horry,South Carolina,2020-03-15
-Kleberg,Texas,2020-03-29
-Stephens,Texas,2020-04-10
-Starr,Texas,2020-03-27
-Smith,Texas,2020-03-13
+Kimble,Texas,2020-05-08
 Sherman,Texas,2020-04-16
-Shelby,Texas,2020-03-27
+Shackelford,Texas,2020-05-07
 Scurry,Texas,2020-04-09
+San Saba,Texas,2020-05-19
 San Patricio,Texas,2020-03-25
 San Jacinto,Texas,2020-03-29
 San Augustine,Texas,2020-04-01
 Sabine,Texas,2020-04-09
 Rusk,Texas,2020-03-18
+Runnels,Texas,2020-04-28
 Rockwall,Texas,2020-03-26
 Robertson,Texas,2020-03-25
 Roberts,Texas,2020-04-16
+Refugio,Texas,2020-05-04
+Reeves,Texas,2020-05-08
 Red River,Texas,2020-04-16
 Randall,Texas,2020-03-27
 Rains,Texas,2020-04-10
 Potter,Texas,2020-03-21
 Polk,Texas,2020-03-29
-Swisher,Texas,2020-03-29
-Tarrant,Texas,2020-03-10
-Taylor,Texas,2020-03-27
-Victoria,Texas,2020-03-24
-Wilbarger,Texas,2020-04-14
-Wichita,Texas,2020-03-18
-Wheeler,Texas,2020-04-22
-Wharton,Texas,2020-03-25
+Shelby,Texas,2020-03-27
+Smith,Texas,2020-03-13
+Parmer,Texas,2020-04-19
+Starr,Texas,2020-03-27
 Webb,Texas,2020-03-18
 Washington,Texas,2020-03-28
 Waller,Texas,2020-03-29
 Walker,Texas,2020-03-25
+Victoria,Texas,2020-03-24
 Van Zandt,Texas,2020-03-19
-Terry,Texas,2020-03-25
 Val Verde,Texas,2020-03-26
 Uvalde,Texas,2020-03-27
 Upshur,Texas,2020-03-20
@@ -1547,10 +1610,15 @@ Trinity,Texas,2020-04-04
 Travis,Texas,2020-03-13
 Tom Green,Texas,2020-03-25
 Titus,Texas,2020-04-03
+Terry,Texas,2020-03-25
+Taylor,Texas,2020-03-27
+Tarrant,Texas,2020-03-10
+Swisher,Texas,2020-03-29
+Stephens,Texas,2020-04-10
 Pecos,Texas,2020-04-06
-Parmer,Texas,2020-04-19
 Parker,Texas,2020-03-24
-Limestone,Texas,2020-03-25
+Kleberg,Texas,2020-03-29
+Maverick,Texas,2020-03-25
 Mason,Texas,2020-04-04
 Martin,Texas,2020-03-26
 Marion,Texas,2020-04-16
@@ -1559,8 +1627,9 @@ Lynn,Texas,2020-03-28
 Lubbock,Texas,2020-03-17
 Llano,Texas,2020-03-25
 Live Oak,Texas,2020-04-01
+Lipscomb,Texas,2020-04-28
+Limestone,Texas,2020-03-25
 Liberty,Texas,2020-03-25
-Maverick,Texas,2020-03-25
 Leon,Texas,2020-03-30
 Lee,Texas,2020-04-02
 Lavaca,Texas,2020-03-18
@@ -1572,7 +1641,7 @@ Knox,Texas,2020-04-07
 Matagorda,Texas,2020-03-16
 McCulloch,Texas,2020-04-09
 Panola,Texas,2020-04-02
-Nacogdoches,Texas,2020-03-26
+McLennan,Texas,2020-03-18
 Palo Pinto,Texas,2020-04-02
 Orange,Texas,2020-03-25
 Oldham,Texas,2020-03-21
@@ -1581,24 +1650,34 @@ Nueces,Texas,2020-03-24
 Nolan,Texas,2020-04-24
 Newton,Texas,2020-04-01
 Navarro,Texas,2020-03-27
+Nacogdoches,Texas,2020-03-26
 Motley,Texas,2020-04-13
-McLennan,Texas,2020-03-18
 Morris,Texas,2020-03-23
 Moore,Texas,2020-03-30
 Montgomery,Texas,2020-03-10
 Montague,Texas,2020-03-27
 Mitchell,Texas,2020-04-07
+Mills,Texas,2020-05-19
 Milam,Texas,2020-03-25
 Midland,Texas,2020-03-21
 Medina,Texas,2020-03-18
-Burnet,Texas,2020-03-25
-Burleson,Texas,2020-03-28
-Brown,Texas,2020-03-20
-Brooks,Texas,2020-04-22
-Yankton,South Dakota,2020-03-28
+Camp,Texas,2020-04-01
+Callahan,Texas,2020-04-07
+Wheeler,Texas,2020-04-22
 Walworth,South Dakota,2020-04-12
+Campbell,Tennessee,2020-03-14
+Bradley,Tennessee,2020-03-20
+Blount,Tennessee,2020-03-20
+Bledsoe,Tennessee,2020-03-28
+Benton,Tennessee,2020-03-26
+Bedford,Tennessee,2020-03-25
+Anderson,Tennessee,2020-03-20
+Ziebach,South Dakota,2020-05-06
+Yankton,South Dakota,2020-03-28
 Union,South Dakota,2020-03-27
+Calhoun,Texas,2020-03-26
 Turner,South Dakota,2020-03-29
+Tripp,South Dakota,2020-05-14
 Todd,South Dakota,2020-03-27
 Sully,South Dakota,2020-04-12
 Stanley,South Dakota,2020-04-24
@@ -1606,40 +1685,43 @@ Spink,South Dakota,2020-04-02
 Sanborn,South Dakota,2020-04-11
 Roberts,South Dakota,2020-03-29
 Pennington,South Dakota,2020-03-23
-Oglala Lakota,South Dakota,2020-04-08
-Moody,South Dakota,2020-04-16
-Minnehaha,South Dakota,2020-03-10
-Miner,South Dakota,2020-04-10
-Meade,South Dakota,2020-03-25
-McPherson,South Dakota,2020-04-25
-McCook,South Dakota,2020-03-13
-Marshall,South Dakota,2020-03-30
-Anderson,Tennessee,2020-03-20
-Bedford,Tennessee,2020-03-25
-Benton,Tennessee,2020-03-26
-Clay,Tennessee,2020-04-01
+Cannon,Tennessee,2020-03-26
+Carroll,Tennessee,2020-03-21
+Carter,Tennessee,2020-03-28
+Cheatham,Tennessee,2020-03-18
+Greene,Tennessee,2020-03-20
+Grainger,Tennessee,2020-04-01
+Giles,Tennessee,2020-03-30
+Gibson,Tennessee,2020-03-22
+Franklin,Tennessee,2020-03-22
+Fentress,Tennessee,2020-03-30
+Fayette,Tennessee,2020-03-21
+Dyer,Tennessee,2020-03-19
 Dickson,Tennessee,2020-03-20
-Decatur,Tennessee,2020-03-28
+Decatur,Tennessee,2020-04-08
 DeKalb,Tennessee,2020-03-24
 Davidson,Tennessee,2020-03-08
 Cumberland,Tennessee,2020-03-19
 Crockett,Tennessee,2020-04-18
 Coffee,Tennessee,2020-03-29
 Cocke,Tennessee,2020-03-21
+Clay,Tennessee,2020-04-01
 Claiborne,Tennessee,2020-03-24
-Bledsoe,Tennessee,2020-03-28
 Chester,Tennessee,2020-03-22
-Cheatham,Tennessee,2020-03-18
-Carter,Tennessee,2020-03-28
-Carroll,Tennessee,2020-03-21
-Cannon,Tennessee,2020-03-26
-Campbell,Tennessee,2020-03-14
-Bradley,Tennessee,2020-03-20
-Blount,Tennessee,2020-03-20
-Lyman,South Dakota,2020-03-23
-Lincoln,South Dakota,2020-03-25
-Lawrence,South Dakota,2020-03-27
-Oconee,South Carolina,2020-03-23
+Oglala Lakota,South Dakota,2020-04-08
+Moody,South Dakota,2020-04-16
+Minnehaha,South Dakota,2020-03-10
+Corson,South Dakota,2020-04-09
+Clay,South Dakota,2020-03-29
+Clark,South Dakota,2020-03-29
+Charles Mix,South Dakota,2020-03-10
+Buffalo,South Dakota,2020-04-28
+Brown,South Dakota,2020-03-22
+Brookings,South Dakota,2020-03-24
+Bon Homme,South Dakota,2020-03-11
+Beadle,South Dakota,2020-03-10
+Aurora,South Dakota,2020-03-27
+York,South Carolina,2020-03-17
 Williamsburg,South Carolina,2020-03-25
 Union,South Carolina,2020-03-25
 Sumter,South Carolina,2020-03-20
@@ -1648,64 +1730,64 @@ Saluda,South Carolina,2020-03-19
 Richland,South Carolina,2020-03-17
 Pickens,South Carolina,2020-03-20
 Orangeburg,South Carolina,2020-03-20
-Newberry,South Carolina,2020-03-21
-Aurora,South Dakota,2020-03-27
-McCormick,South Carolina,2020-04-02
-Marlboro,South Carolina,2020-03-21
-Marion,South Carolina,2020-03-25
-Lexington,South Carolina,2020-03-14
-Lee,South Carolina,2020-03-18
-Laurens,South Carolina,2020-03-28
-Lancaster,South Carolina,2020-03-11
-Kershaw,South Carolina,2020-03-06
-York,South Carolina,2020-03-17
-Beadle,South Dakota,2020-03-10
+Oconee,South Carolina,2020-03-23
+Codington,South Dakota,2020-03-23
+Davison,South Dakota,2020-03-10
+Miner,South Dakota,2020-04-10
+Day,South Dakota,2020-04-29
+Meade,South Dakota,2020-03-25
+McPherson,South Dakota,2020-04-25
+McCook,South Dakota,2020-03-13
+Marshall,South Dakota,2020-03-30
+Lyman,South Dakota,2020-03-23
+Lincoln,South Dakota,2020-03-25
+Lawrence,South Dakota,2020-03-27
 Lake,South Dakota,2020-04-02
-Douglas,South Dakota,2020-04-27
 Jerauld,South Dakota,2020-04-09
 Hyde,South Dakota,2020-04-13
 Hutchinson,South Dakota,2020-03-28
 Hughes,South Dakota,2020-03-23
 Hand,South Dakota,2020-04-26
 Hamlin,South Dakota,2020-03-28
+Grant,South Dakota,2020-05-06
 Faulk,South Dakota,2020-03-27
 Fall River,South Dakota,2020-03-29
+Douglas,South Dakota,2020-04-27
 Deuel,South Dakota,2020-03-28
-Bon Homme,South Dakota,2020-03-11
-Davison,South Dakota,2020-03-10
-Corson,South Dakota,2020-04-09
-Codington,South Dakota,2020-03-23
-Clay,South Dakota,2020-03-29
-Clark,South Dakota,2020-03-29
-Charles Mix,South Dakota,2020-03-10
-Brown,South Dakota,2020-03-22
-Brookings,South Dakota,2020-03-24
-Dyer,Tennessee,2020-03-19
-Fayette,Tennessee,2020-03-21
-Fentress,Tennessee,2020-03-30
-Sullivan,Tennessee,2020-03-10
+Grundy,Tennessee,2020-03-24
+Hamblen,Tennessee,2020-03-20
+Hamilton,Tennessee,2020-03-13
+Archer,Texas,2020-05-15
+Angelina,Texas,2020-03-26
+Andrews,Texas,2020-04-04
+Anderson,Texas,2020-04-01
+Wilson,Tennessee,2020-03-19
+Williamson,Tennessee,2020-03-05
+White,Tennessee,2020-03-25
+Weakley,Tennessee,2020-03-28
+Wayne,Tennessee,2020-03-30
 Washington,Tennessee,2020-03-19
 Warren,Tennessee,2020-03-30
 Van Buren,Tennessee,2020-04-13
+Unknown,Tennessee,2020-03-19
 Union,Tennessee,2020-03-28
 Unicoi,Tennessee,2020-03-26
 Trousdale,Tennessee,2020-03-28
 Tipton,Tennessee,2020-03-20
 Sumner,Tennessee,2020-03-18
+Sullivan,Tennessee,2020-03-10
 Stewart,Tennessee,2020-04-04
-Weakley,Tennessee,2020-03-24
-Smith,Tennessee,2020-03-27
+Aransas,Texas,2020-04-05
+Armstrong,Texas,2020-04-14
 Shelby,Tennessee,2020-03-08
-Sevier,Tennessee,2020-03-16
-Sequatchie,Tennessee,2020-04-01
-Scott,Tennessee,2020-03-21
-Rutherford,Tennessee,2020-03-13
-Robertson,Tennessee,2020-03-18
-Roane,Tennessee,2020-03-21
-Wayne,Tennessee,2020-03-30
-White,Tennessee,2020-03-25
-Putnam,Tennessee,2020-03-21
-Bastrop,Texas,2020-03-21
+Atascosa,Texas,2020-03-25
+Caldwell,Texas,2020-03-28
+Burnet,Texas,2020-03-25
+Burleson,Texas,2020-03-28
+Brown,Texas,2020-03-20
+Brooks,Texas,2020-04-22
+Briscoe,Texas,2020-05-02
+Brewster,Texas,2020-05-01
 Brazos,Texas,2020-03-17
 Brazoria,Texas,2020-03-14
 Bowie,Texas,2020-03-16
@@ -1714,20 +1796,22 @@ Blanco,Texas,2020-03-25
 Bexar,Texas,2020-02-12
 Bell,Texas,2020-03-13
 Bee,Texas,2020-04-08
+Bastrop,Texas,2020-03-21
 Bandera,Texas,2020-04-09
-Williamson,Tennessee,2020-03-05
+Bailey,Texas,2020-05-05
 Austin,Texas,2020-03-25
-Atascosa,Texas,2020-03-25
-Armstrong,Texas,2020-04-14
-Aransas,Texas,2020-03-30
-Angelina,Texas,2020-03-26
-Andrews,Texas,2020-03-28
-Anderson,Texas,2020-04-01
-Wilson,Tennessee,2020-03-19
-Rhea,Tennessee,2020-04-01
-Polk,Tennessee,2020-04-02
-Franklin,Tennessee,2020-03-22
-Hawkins,Tennessee,2020-03-25
+Smith,Tennessee,2020-03-27
+Sevier,Tennessee,2020-03-16
+Hancock,Tennessee,2020-05-19
+Madison,Tennessee,2020-03-24
+Loudon,Tennessee,2020-03-22
+Lincoln,Tennessee,2020-03-24
+Lewis,Tennessee,2020-03-25
+Lawrence,Tennessee,2020-03-30
+Lauderdale,Tennessee,2020-04-01
+Lake,Tennessee,2020-04-13
+Knox,Tennessee,2020-03-12
+Johnson,Tennessee,2020-03-28
 Jefferson,Tennessee,2020-03-13
 Jackson,Tennessee,2020-04-02
 Humphreys,Tennessee,2020-03-31
@@ -1736,20 +1820,22 @@ Hickman,Tennessee,2020-04-01
 Henry,Tennessee,2020-03-29
 Henderson,Tennessee,2020-04-05
 Haywood,Tennessee,2020-03-29
+Hawkins,Tennessee,2020-03-25
 Hardin,Tennessee,2020-03-24
-Knox,Tennessee,2020-03-12
 Hardeman,Tennessee,2020-03-28
-Hamilton,Tennessee,2020-03-13
-Hamblen,Tennessee,2020-03-20
-Grundy,Tennessee,2020-03-24
-Greene,Tennessee,2020-03-20
-Grainger,Tennessee,2020-04-01
-Giles,Tennessee,2020-03-30
-Gibson,Tennessee,2020-03-22
-Johnson,Tennessee,2020-03-28
-Lake,Tennessee,2020-04-13
+Macon,Tennessee,2020-03-26
+Marion,Tennessee,2020-03-22
+Sequatchie,Tennessee,2020-04-01
+Marshall,Tennessee,2020-03-30
+Scott,Tennessee,2020-03-21
+Rutherford,Tennessee,2020-03-13
+Robertson,Tennessee,2020-03-18
+Roane,Tennessee,2020-03-21
+Rhea,Tennessee,2020-04-17
+Putnam,Tennessee,2020-03-21
+Polk,Tennessee,2020-04-02
+Pickett,Tennessee,2020-05-10
 Perry,Tennessee,2020-03-22
-McMinn,Tennessee,2020-03-22
 Overton,Tennessee,2020-03-24
 Obion,Tennessee,2020-03-29
 Morgan,Tennessee,2020-03-28
@@ -1758,28 +1844,23 @@ Montgomery,Tennessee,2020-03-19
 Monroe,Tennessee,2020-03-21
 Meigs,Tennessee,2020-03-26
 McNairy,Tennessee,2020-03-29
+McMinn,Tennessee,2020-03-22
 Maury,Tennessee,2020-03-20
-Lauderdale,Tennessee,2020-04-01
-Marshall,Tennessee,2020-03-30
-Marion,Tennessee,2020-03-22
-Madison,Tennessee,2020-03-24
-Macon,Tennessee,2020-03-26
-Loudon,Tennessee,2020-03-22
-Lincoln,Tennessee,2020-03-24
-Lewis,Tennessee,2020-03-25
-Lawrence,Tennessee,2020-03-30
-Willacy,Texas,2020-03-27
-Williamson,Texas,2020-03-18
-Wilson,Texas,2020-03-25
-Adams,Washington,2020-03-23
+Wharton,Texas,2020-03-25
+Wichita,Texas,2020-03-18
+McCormick,South Carolina,2020-04-02
+Logan,West Virginia,2020-03-25
+Monroe,West Virginia,2020-04-11
+Monongalia,West Virginia,2020-03-19
+Mingo,West Virginia,2020-04-12
 Mineral,West Virginia,2020-04-03
 Mercer,West Virginia,2020-03-18
 McDowell,West Virginia,2020-04-07
 Mason,West Virginia,2020-03-26
 Marshall,West Virginia,2020-03-21
 Marion,West Virginia,2020-03-25
-Logan,West Virginia,2020-03-25
 Lincoln,West Virginia,2020-04-14
+Asotin,Washington,2020-04-03
 Lewis,West Virginia,2020-04-06
 Kanawha,West Virginia,2020-03-20
 Jefferson,West Virginia,2020-03-17
@@ -1789,12 +1870,13 @@ Hardy,West Virginia,2020-03-31
 Hancock,West Virginia,2020-03-27
 Hampshire,West Virginia,2020-04-08
 Greenbrier,West Virginia,2020-03-27
-Grant,West Virginia,2020-04-12
-Gilmer,West Virginia,2020-04-25
-Mingo,West Virginia,2020-04-12
-Monongalia,West Virginia,2020-03-19
-Monroe,West Virginia,2020-04-11
-Roane,West Virginia,2020-03-30
+Morgan,West Virginia,2020-03-29
+Nicholas,West Virginia,2020-04-07
+Ohio,West Virginia,2020-03-25
+Pendleton,West Virginia,2020-04-02
+Adams,Wisconsin,2020-04-02
+Wyoming,West Virginia,2020-04-07
+Wood,West Virginia,2020-03-24
 Wirt,West Virginia,2020-03-29
 Wetzel,West Virginia,2020-03-29
 Wayne,West Virginia,2020-04-09
@@ -1803,20 +1885,20 @@ Tyler,West Virginia,2020-04-07
 Tucker,West Virginia,2020-03-19
 Taylor,West Virginia,2020-04-06
 Summers,West Virginia,2020-04-11
+Roane,West Virginia,2020-03-30
+Ritchie,West Virginia,2020-05-03
 Randolph,West Virginia,2020-03-30
-Morgan,West Virginia,2020-03-29
 Raleigh,West Virginia,2020-03-25
 Putnam,West Virginia,2020-03-21
 Preston,West Virginia,2020-03-24
 Pocahontas,West Virginia,2020-04-27
 Pleasants,West Virginia,2020-03-27
-Pendleton,West Virginia,2020-04-02
-Ohio,West Virginia,2020-03-25
-Nicholas,West Virginia,2020-04-07
+Grant,West Virginia,2020-04-12
+Gilmer,West Virginia,2020-04-25
 Fayette,West Virginia,2020-04-07
-Calhoun,West Virginia,2020-04-26
-Cabell,West Virginia,2020-03-29
-Grant,Washington,2020-03-13
+Pacific,Washington,2020-04-10
+Mason,Washington,2020-03-17
+Lincoln,Washington,2020-03-15
 Lewis,Washington,2020-03-15
 Klickitat,Washington,2020-03-14
 Kittitas,Washington,2020-03-07
@@ -1825,8 +1907,8 @@ King,Washington,2020-02-28
 Jefferson,Washington,2020-03-06
 Island,Washington,2020-03-11
 Grays Harbor,Washington,2020-03-12
+Grant,Washington,2020-03-13
 Franklin,Washington,2020-03-17
-Mason,Washington,2020-03-17
 Ferry,Washington,2020-03-25
 Douglas,Washington,2020-03-23
 Cowlitz,Washington,2020-03-20
@@ -1834,11 +1916,13 @@ Columbia,Washington,2020-03-12
 Clark,Washington,2020-03-06
 Clallam,Washington,2020-03-19
 Chelan,Washington,2020-03-04
-Benton,Washington,2020-03-18
-Lincoln,Washington,2020-03-15
 Okanogan,Washington,2020-03-25
+Pend Oreille,Washington,2020-04-02
+Clay,West Virginia,2020-05-06
+Pierce,Washington,2020-03-06
+Calhoun,West Virginia,2020-04-26
+Cabell,West Virginia,2020-03-29
 Brooke,West Virginia,2020-04-07
-Wahkiakum,Washington,2020-04-04
 Braxton,West Virginia,2020-04-08
 Boone,West Virginia,2020-04-08
 Berkeley,West Virginia,2020-03-24
@@ -1847,20 +1931,18 @@ Yakima,Washington,2020-03-12
 Whitman,Washington,2020-03-22
 Whatcom,Washington,2020-03-10
 Walla Walla,Washington,2020-03-02
+Wahkiakum,Washington,2020-04-04
 Thurston,Washington,2020-03-11
-Pacific,Washington,2020-04-10
 Stevens,Washington,2020-03-20
 Spokane,Washington,2020-02-24
 Snohomish,Washington,2020-01-21
 Skamania,Washington,2020-03-27
 Skagit,Washington,2020-03-10
 San Juan,Washington,2020-03-20
-Pierce,Washington,2020-03-06
-Pend Oreille,Washington,2020-04-02
-Wood,West Virginia,2020-03-24
-Wyoming,West Virginia,2020-04-07
-Adams,Wisconsin,2020-04-02
-Trempealeau,Wisconsin,2020-04-02
+Ashland,Wisconsin,2020-03-31
+Barron,Wisconsin,2020-04-03
+Bayfield,Wisconsin,2020-03-19
+Wood,Wisconsin,2020-03-16
 Waushara,Wisconsin,2020-04-06
 Waupaca,Wisconsin,2020-03-27
 Waukesha,Wisconsin,2020-03-11
@@ -1869,8 +1951,9 @@ Washburn,Wisconsin,2020-04-14
 Walworth,Wisconsin,2020-03-19
 Vilas,Wisconsin,2020-03-26
 Vernon,Wisconsin,2020-04-24
+Trempealeau,Wisconsin,2020-04-02
+Taylor,Wisconsin,2020-05-21
 St. Croix,Wisconsin,2020-03-20
-Wood,Wisconsin,2020-03-16
 Sheboygan,Wisconsin,2020-03-13
 Shawano,Wisconsin,2020-04-04
 Sawyer,Wisconsin,2020-04-09
@@ -1882,17 +1965,18 @@ Racine,Wisconsin,2020-03-13
 Winnebago,Wisconsin,2020-03-14
 Albany,Wyoming,2020-03-25
 Portage,Wisconsin,2020-03-26
-Lincoln,Wyoming,2020-04-03
+Big Horn,Wyoming,2020-04-12
 Uinta,Wyoming,2020-04-02
-Teton,Wyoming,2020-03-18
-Gentry,Missouri,2020-04-06
+Lafayette,Missouri,2020-03-23
+Sweetwater,Wyoming,2020-03-24
 Sublette,Wyoming,2020-03-28
 Sheridan,Wyoming,2020-03-11
+Platte,Wyoming,2020-05-21
 Park,Wyoming,2020-03-17
-Niobrara,Wyoming,2020-04-09
+Niobrara,Wyoming,2020-04-10
 Natrona,Wyoming,2020-03-20
+Lincoln,Wyoming,2020-04-03
 Laramie,Wyoming,2020-03-17
-Big Horn,Wyoming,2020-04-12
 Johnson,Wyoming,2020-03-26
 Hot Springs,Wyoming,2020-03-26
 Goshen,Wyoming,2020-03-27
@@ -1903,9 +1987,12 @@ Carbon,Wyoming,2020-03-21
 Campbell,Wyoming,2020-03-20
 Price,Wisconsin,2020-04-11
 Polk,Wisconsin,2020-04-10
-Ashland,Wisconsin,2020-03-31
-Dane,Wisconsin,2020-02-05
+Brown,Wisconsin,2020-03-18
+Iron,Wisconsin,2020-03-27
+Green Lake,Wisconsin,2020-04-13
+Green,Wisconsin,2020-03-20
 Grant,Wisconsin,2020-03-25
+Forest,Wisconsin,2020-05-06
 Fond du Lac,Wisconsin,2020-03-11
 Florence,Wisconsin,2020-04-05
 Eau Claire,Wisconsin,2020-03-19
@@ -1913,20 +2000,19 @@ Dunn,Wisconsin,2020-03-20
 Douglas,Wisconsin,2020-03-20
 Door,Wisconsin,2020-03-30
 Dodge,Wisconsin,2020-03-23
+Dane,Wisconsin,2020-02-05
 Crawford,Wisconsin,2020-04-01
-Green Lake,Wisconsin,2020-04-13
 Columbia,Wisconsin,2020-03-19
 Clark,Wisconsin,2020-03-26
 Chippewa,Wisconsin,2020-03-20
 Calumet,Wisconsin,2020-03-19
+Burnett,Wisconsin,2020-05-14
 Buffalo,Wisconsin,2020-03-31
-Brown,Wisconsin,2020-03-18
-Bayfield,Wisconsin,2020-03-19
-Barron,Wisconsin,2020-04-03
-Green,Wisconsin,2020-03-20
 Iowa,Wisconsin,2020-03-25
+Jackson,Wisconsin,2020-03-30
 Pierce,Wisconsin,2020-03-09
-Marinette,Wisconsin,2020-03-27
+Jefferson,Wisconsin,2020-03-20
+Pepin,Wisconsin,2020-05-14
 Ozaukee,Wisconsin,2020-03-19
 Outagamie,Wisconsin,2020-03-16
 Oneida,Wisconsin,2020-03-28
@@ -1935,22 +2021,20 @@ Monroe,Wisconsin,2020-03-25
 Milwaukee,Wisconsin,2020-03-13
 Menominee,Wisconsin,2020-04-01
 Marquette,Wisconsin,2020-03-30
+Marinette,Wisconsin,2020-03-27
 Marathon,Wisconsin,2020-03-20
-Iron,Wisconsin,2020-03-27
 Manitowoc,Wisconsin,2020-04-04
+Lincoln,Wisconsin,2020-05-01
+Langlade,Wisconsin,2020-05-21
 Lafayette,Wisconsin,2020-04-07
 La Crosse,Wisconsin,2020-03-18
 Kewaunee,Wisconsin,2020-04-06
 Kenosha,Wisconsin,2020-03-17
 Juneau,Wisconsin,2020-03-25
-Jefferson,Wisconsin,2020-03-20
-Jackson,Wisconsin,2020-03-30
-Asotin,Washington,2020-04-03
-York,Virginia,2020-03-16
-Winkler,Texas,2020-04-10
-Wythe,Virginia,2020-03-29
-Buena Vista city,Virginia,2020-04-03
-Buckingham,Virginia,2020-03-31
+Benton,Washington,2020-03-18
+Adams,Washington,2020-03-23
+Wilbarger,Texas,2020-04-14
+Amelia,Virginia,2020-03-26
 Buchanan,Virginia,2020-04-07
 Brunswick,Virginia,2020-03-31
 Bristol city,Virginia,2020-03-27
@@ -1960,72 +2044,74 @@ Augusta,Virginia,2020-04-01
 Arlington,Virginia,2020-03-11
 Appomattox,Virginia,2020-04-06
 Amherst,Virginia,2020-03-22
-Amelia,Virginia,2020-03-26
 Alleghany,Virginia,2020-03-29
+York,Virginia,2020-03-16
 Alexandria city,Virginia,2020-03-12
 Albemarle,Virginia,2020-03-21
 Accomack,Virginia,2020-03-20
 Unknown,Virgin Islands,2020-03-14
 Windsor,Vermont,2020-03-14
 Windham,Vermont,2020-03-21
+Washington,Vermont,2020-03-14
+Unknown,Vermont,2020-03-23
+Rutland,Vermont,2020-03-20
+Buckingham,Virginia,2020-03-31
+Buena Vista city,Virginia,2020-04-03
 Campbell,Virginia,2020-03-31
 Caroline,Virginia,2020-04-03
-Carroll,Virginia,2020-03-31
-Cumberland,Virginia,2020-04-02
-Fauquier,Virginia,2020-03-26
 Falls Church city,Virginia,2020-04-13
-Fairfax city,Virginia,2020-03-25
+Fairfax city,Virginia,2020-04-10
 Fairfax,Virginia,2020-03-07
 Essex,Virginia,2020-04-16
 Emporia city,Virginia,2020-04-03
 Dinwiddie,Virginia,2020-04-07
 Danville city,Virginia,2020-03-23
+Cumberland,Virginia,2020-04-02
 Culpeper,Virginia,2020-03-22
-Charles City,Virginia,2020-03-18
 Craig,Virginia,2020-04-07
-Covington city,Virginia,2020-04-01
+Covington city,Virginia,2020-05-09
 Colonial Heights city,Virginia,2020-04-10
 Clarke,Virginia,2020-03-31
 Chesterfield,Virginia,2020-03-14
 Chesapeake city,Virginia,2020-03-24
 Charlottesville city,Virginia,2020-03-17
 Charlotte,Virginia,2020-04-04
-Washington,Vermont,2020-03-14
-Unknown,Vermont,2020-03-23
-Rutland,Vermont,2020-03-20
-Davis,Utah,2020-03-06
-Millard,Utah,2020-04-03
+Charles City,Virginia,2020-03-18
+Carroll,Virginia,2020-03-31
+Orleans,Vermont,2020-03-24
+Orange,Vermont,2020-03-16
+Lamoille,Vermont,2020-03-25
 Kane,Utah,2020-04-02
-Juab,Utah,2020-04-03
 Iron,Utah,2020-03-23
 Grand,Utah,2020-04-03
 Garfield,Utah,2020-03-28
 Emery,Utah,2020-04-03
 Duchesne,Utah,2020-04-03
+Davis,Utah,2020-03-06
 Carbon,Utah,2020-04-03
-Salt Lake,Utah,2020-02-25
 Cache,Utah,2020-03-18
 Box Elder,Utah,2020-03-18
 Zavala,Texas,2020-04-17
 Zapata,Texas,2020-04-06
 Young,Texas,2020-03-27
-Yoakum,Texas,2020-03-27
+Yoakum,Texas,2020-04-18
 Wood,Texas,2020-04-01
 Wise,Texas,2020-03-30
-Morgan,Utah,2020-03-26
-San Juan,Utah,2020-03-28
-Orleans,Vermont,2020-03-24
-Addison,Vermont,2020-03-20
-Orange,Vermont,2020-03-16
-Lamoille,Vermont,2020-03-25
+Winkler,Texas,2020-04-10
+Wilson,Texas,2020-03-25
+Williamson,Texas,2020-03-18
+Willacy,Texas,2020-03-27
+Juab,Utah,2020-04-03
+Millard,Utah,2020-04-03
 Grand Isle,Vermont,2020-04-07
+Morgan,Utah,2020-03-26
 Franklin,Vermont,2020-03-21
 Essex,Vermont,2020-04-08
 Chittenden,Vermont,2020-03-11
 Caledonia,Vermont,2020-03-24
 Bennington,Vermont,2020-03-07
+Addison,Vermont,2020-03-20
 Weber,Utah,2020-03-10
-Sanpete,Utah,2020-04-18
 Washington,Utah,2020-03-06
 Wasatch,Utah,2020-03-16
 Utah,Utah,2020-03-15
@@ -2034,10 +2120,15 @@ Uintah,Utah,2020-03-27
 Tooele,Utah,2020-03-16
 Summit,Utah,2020-03-14
 Sevier,Utah,2020-04-15
+Sanpete,Utah,2020-04-18
+San Juan,Utah,2020-03-28
+Salt Lake,Utah,2020-02-25
+Piute,Utah,2020-05-07
+Fauquier,Virginia,2020-03-26
 Floyd,Virginia,2020-04-09
 Fluvanna,Virginia,2020-03-22
-Franklin,Virginia,2020-03-21
-Prince William,Virginia,2020-03-12
+Salem city,Virginia,2020-04-02
+Rockingham,Virginia,2020-03-22
 Rockbridge,Virginia,2020-03-23
 Roanoke city,Virginia,2020-03-27
 Roanoke,Virginia,2020-03-25
@@ -2046,8 +2137,8 @@ Richmond,Virginia,2020-04-03
 Rappahannock,Virginia,2020-04-07
 Radford city,Virginia,2020-03-26
 Pulaski,Virginia,2020-04-03
+Prince William,Virginia,2020-03-12
 Prince George,Virginia,2020-03-26
-Russell,Virginia,2020-04-06
 Prince Edward,Virginia,2020-03-12
 Powhatan,Virginia,2020-03-28
 Portsmouth city,Virginia,2020-03-20
@@ -2056,10 +2147,11 @@ Pittsylvania,Virginia,2020-03-26
 Petersburg city,Virginia,2020-03-30
 Patrick,Virginia,2020-04-21
 Page,Virginia,2020-03-31
-Rockingham,Virginia,2020-03-22
-Salem city,Virginia,2020-04-02
+Russell,Virginia,2020-04-06
+Scott,Virginia,2020-04-10
 Nottoway,Virginia,2020-03-25
-Tazewell,Virginia,2020-03-29
+Shenandoah,Virginia,2020-03-25
+Wythe,Virginia,2020-03-29
 Wise,Virginia,2020-04-03
 Winchester city,Virginia,2020-03-29
 Williamsburg city,Virginia,2020-03-17
@@ -2068,8 +2160,9 @@ Waynesboro city,Virginia,2020-03-31
 Washington,Virginia,2020-03-26
 Warren,Virginia,2020-03-26
 Virginia Beach city,Virginia,2020-03-09
+Unknown,Virginia,2020-04-03
+Tazewell,Virginia,2020-03-29
 Sussex,Virginia,2020-04-01
-Scott,Virginia,2020-04-10
 Surry,Virginia,2020-03-31
 Suffolk city,Virginia,2020-03-21
 Staunton city,Virginia,2020-04-04
@@ -2077,12 +2170,10 @@ Stafford,Virginia,2020-03-16
 Spotsylvania,Virginia,2020-03-14
 Southampton,Virginia,2020-03-26
 Smyth,Virginia,2020-03-30
-Shenandoah,Virginia,2020-03-25
 Orange,Virginia,2020-03-25
 Norton city,Virginia,2020-04-21
-Franklin city,Virginia,2020-03-31
-Hampton city,Virginia,2020-03-26
-James City,Virginia,2020-03-12
+Franklin,Virginia,2020-03-21
+King George,Virginia,2020-03-26
 Isle of Wight,Virginia,2020-03-21
 Hopewell city,Virginia,2020-03-28
 Highland,Virginia,2020-04-22
@@ -2090,20 +2181,22 @@ Henry,Virginia,2020-03-30
 Henrico,Virginia,2020-03-17
 Harrisonburg city,Virginia,2020-03-13
 Hanover,Virginia,2020-03-12
+Hampton city,Virginia,2020-03-26
 Halifax,Virginia,2020-03-24
-King William,Virginia,2020-03-30
 Greensville,Virginia,2020-03-29
 Greene,Virginia,2020-03-26
+Grayson,Virginia,2020-04-28
 Goochland,Virginia,2020-03-17
 Gloucester,Virginia,2020-03-20
 Giles,Virginia,2020-04-06
 Galax city,Virginia,2020-03-27
 Fredericksburg city,Virginia,2020-03-25
 Frederick,Virginia,2020-03-25
-King George,Virginia,2020-03-26
-King and Queen,Virginia,2020-03-31
+Franklin city,Virginia,2020-03-31
+James City,Virginia,2020-03-12
+King William,Virginia,2020-03-30
 Northumberland,Virginia,2020-03-28
-Mathews,Virginia,2020-03-25
+King and Queen,Virginia,2020-03-31
 Northampton,Virginia,2020-03-26
 Norfolk city,Virginia,2020-03-20
 Newport News city,Virginia,2020-03-20
@@ -2112,8 +2205,8 @@ Nelson,Virginia,2020-03-25
 Montgomery,Virginia,2020-03-28
 Middlesex,Virginia,2020-04-09
 Mecklenburg,Virginia,2020-03-21
+Mathews,Virginia,2020-03-25
 Manassas city,Virginia,2020-03-25
-Lancaster,Virginia,2020-03-28
 Manassas Park city,Virginia,2020-03-29
 Madison,Virginia,2020-03-25
 Lynchburg city,Virginia,2020-03-26
@@ -2122,16 +2215,22 @@ Louisa,Virginia,2020-03-22
 Loudoun,Virginia,2020-03-10
 Lexington city,Virginia,2020-04-03
 Lee,Virginia,2020-03-22
-Jasper,South Carolina,2020-03-21
-Sweetwater,Wyoming,2020-03-24
-Hampton,South Carolina,2020-04-02
-Sullivan,New Hampshire,2020-03-22
+Lancaster,Virginia,2020-03-28
+Newberry,South Carolina,2020-03-21
+Teton,Wyoming,2020-03-18
+Marlboro,South Carolina,2020-03-21
+Chemung,New York,2020-03-24
+Franklin,New York,2020-03-25
+Essex,New York,2020-03-18
+Erie,New York,2020-03-15
+Dutchess,New York,2020-03-12
+Delaware,New York,2020-03-12
 Cortland,New York,2020-03-22
 Columbia,New York,2020-03-20
 Clinton,New York,2020-03-17
 Chenango,New York,2020-03-18
-Chemung,New York,2020-03-24
 Chautauqua,New York,2020-03-25
+Burlington,New Jersey,2020-03-10
 Cayuga,New York,2020-03-23
 Cattaraugus,New York,2020-03-28
 Broome,New York,2020-03-14
@@ -2141,14 +2240,16 @@ Valencia,New Mexico,2020-03-27
 Unknown,New Mexico,2020-04-03
 Union,New Mexico,2020-04-25
 Torrance,New Mexico,2020-03-30
-Taos,New Mexico,2020-03-17
-Socorro,New Mexico,2020-03-11
-Santa Fe,New Mexico,2020-03-11
-Sandoval,New Mexico,2020-03-14
-Delaware,New York,2020-03-12
-Dutchess,New York,2020-03-12
-Erie,New York,2020-03-15
-Madison,New York,2020-03-22
+Fulton,New York,2020-03-20
+Genesee,New York,2020-03-20
+Greene,New York,2020-03-15
+Hamilton,New York,2020-03-18
+Rensselaer,New York,2020-03-17
+Putnam,New York,2020-03-15
+Otsego,New York,2020-03-23
+Oswego,New York,2020-03-23
+Orleans,New York,2020-03-24
+Orange,New York,2020-03-12
 Ontario,New York,2020-03-16
 Onondaga,New York,2020-03-16
 Oneida,New York,2020-03-20
@@ -2157,20 +2258,20 @@ New York City,New York,2020-03-01
 Nassau,New York,2020-03-05
 Montgomery,New York,2020-03-15
 Monroe,New York,2020-03-11
+Madison,New York,2020-03-22
 Livingston,New York,2020-03-18
-Essex,New York,2020-03-18
 Lewis,New York,2020-03-29
 Jefferson,New York,2020-03-18
 Herkimer,New York,2020-03-12
-Hamilton,New York,2020-03-18
-Greene,New York,2020-03-15
-Genesee,New York,2020-03-20
-Fulton,New York,2020-03-20
-Franklin,New York,2020-03-25
-San Miguel,New Mexico,2020-03-19
-San Juan,New Mexico,2020-03-22
-Roosevelt,New Mexico,2020-03-27
-Hunterdon,New Jersey,2020-03-16
+Taos,New Mexico,2020-03-17
+Socorro,New Mexico,2020-03-11
+Sierra,New Mexico,2020-04-29
+Chaves,New Mexico,2020-03-23
+Bernalillo,New Mexico,2020-03-11
+Warren,New Jersey,2020-03-17
+Unknown,New Jersey,2020-03-12
+Union,New Jersey,2020-03-09
+Sussex,New Jersey,2020-03-19
 Somerset,New Jersey,2020-03-16
 Salem,New Jersey,2020-03-22
 Passaic,New Jersey,2020-03-08
@@ -2179,20 +2280,21 @@ Morris,New Jersey,2020-03-12
 Monmouth,New Jersey,2020-03-09
 Middlesex,New Jersey,2020-03-11
 Mercer,New Jersey,2020-03-14
+Hunterdon,New Jersey,2020-03-16
 Hudson,New Jersey,2020-03-09
-Union,New Jersey,2020-03-09
 Gloucester,New Jersey,2020-03-17
 Essex,New Jersey,2020-03-12
 Cumberland,New Jersey,2020-03-20
 Cape May,New Jersey,2020-03-19
-Camden,New Jersey,2020-03-06
-Burlington,New Jersey,2020-03-10
-Bergen,New Jersey,2020-03-04
-Atlantic,New Jersey,2020-03-18
-Sussex,New Jersey,2020-03-19
-Unknown,New Jersey,2020-03-12
+Catron,New Mexico,2020-04-01
+Cibola,New Mexico,2020-03-24
+Santa Fe,New Mexico,2020-03-11
+Colfax,New Mexico,2020-04-09
+Sandoval,New Mexico,2020-03-14
+San Miguel,New Mexico,2020-03-19
+San Juan,New Mexico,2020-03-22
+Roosevelt,New Mexico,2020-03-27
 Rio Arriba,New Mexico,2020-03-25
-Guadalupe,New Mexico,2020-04-18
 Quay,New Mexico,2020-04-11
 Otero,New Mexico,2020-04-01
 McKinley,New Mexico,2020-03-20
@@ -2200,43 +2302,47 @@ Luna,New Mexico,2020-04-10
 Los Alamos,New Mexico,2020-04-04
 Lincoln,New Mexico,2020-04-04
 Lea,New Mexico,2020-03-21
+Hidalgo,New Mexico,2020-05-18
 Harding,New Mexico,2020-04-23
+Guadalupe,New Mexico,2020-04-18
 Grant,New Mexico,2020-04-01
-Warren,New Jersey,2020-03-17
 Eddy,New Mexico,2020-03-25
 Doña Ana,New Mexico,2020-03-20
 Curry,New Mexico,2020-03-24
-Colfax,New Mexico,2020-04-09
-Cibola,New Mexico,2020-03-24
-Chaves,New Mexico,2020-03-23
-Catron,New Mexico,2020-04-01
-Bernalillo,New Mexico,2020-03-11
-Orange,New York,2020-03-12
-Orleans,New York,2020-03-24
-Oswego,New York,2020-03-23
-Forsyth,North Carolina,2020-03-12
+Rockland,New York,2020-03-06
+Saratoga,New York,2020-03-07
+Schenectady,New York,2020-03-13
+Jones,North Carolina,2020-04-09
+Jackson,North Carolina,2020-04-13
+Iredell,North Carolina,2020-03-17
+Hyde,North Carolina,2020-04-29
+Hoke,North Carolina,2020-03-18
+Hertford,North Carolina,2020-03-25
+Henderson,North Carolina,2020-03-22
+Haywood,North Carolina,2020-04-03
 Harnett,North Carolina,2020-03-14
 Halifax,North Carolina,2020-03-29
 Guilford,North Carolina,2020-03-18
 Greene,North Carolina,2020-03-27
 Granville,North Carolina,2020-03-22
+Graham,North Carolina,2020-04-28
 Gates,North Carolina,2020-04-02
 Gaston,North Carolina,2020-03-18
 Franklin,North Carolina,2020-03-20
+Forsyth,North Carolina,2020-03-12
 Edgecombe,North Carolina,2020-03-28
-Henderson,North Carolina,2020-03-22
 Durham,North Carolina,2020-03-16
-Duplin,North Carolina,2020-03-25
+Johnston,North Carolina,2020-03-12
+Lee,North Carolina,2020-03-22
 Davie,North Carolina,2020-03-22
-Davidson,North Carolina,2020-03-20
-Dare,North Carolina,2020-04-02
-Currituck,North Carolina,2020-03-29
-Cumberland,North Carolina,2020-03-22
-Craven,North Carolina,2020-03-14
-Haywood,North Carolina,2020-04-03
-Hertford,North Carolina,2020-03-25
-Cleveland,North Carolina,2020-03-25
-Martin,North Carolina,2020-03-31
+Lenoir,North Carolina,2020-03-25
+Person,North Carolina,2020-03-27
+Perquimans,North Carolina,2020-03-28
+Pender,North Carolina,2020-04-05
+Pasquotank,North Carolina,2020-03-20
+Pamlico,North Carolina,2020-03-29
+Orange,North Carolina,2020-03-20
+Onslow,North Carolina,2020-03-12
 Northampton,North Carolina,2020-03-25
 New Hanover,North Carolina,2020-03-18
 Nash,North Carolina,2020-03-22
@@ -2245,20 +2351,21 @@ Montgomery,North Carolina,2020-03-24
 Mitchell,North Carolina,2020-04-02
 Mecklenburg,North Carolina,2020-03-12
 McDowell,North Carolina,2020-03-25
+Martin,North Carolina,2020-03-31
 Madison,North Carolina,2020-04-25
-Hoke,North Carolina,2020-03-18
 Macon,North Carolina,2020-04-02
 Lincoln,North Carolina,2020-03-18
-Lenoir,North Carolina,2020-03-25
-Lee,North Carolina,2020-03-22
-Jones,North Carolina,2020-04-09
-Johnston,North Carolina,2020-03-12
-Jackson,North Carolina,2020-03-24
-Iredell,North Carolina,2020-03-17
-Columbus,North Carolina,2020-03-29
-Clay,North Carolina,2020-03-31
-Otsego,New York,2020-03-23
-Steuben,New York,2020-03-21
+Duplin,North Carolina,2020-03-25
+Davidson,North Carolina,2020-03-20
+Schoharie,New York,2020-03-19
+Avery,North Carolina,2020-05-19
+Anson,North Carolina,2020-03-31
+Alleghany,North Carolina,2020-03-29
+Alexander,North Carolina,2020-03-30
+Alamance,North Carolina,2020-03-23
+Yates,New York,2020-04-02
+Wyoming,New York,2020-03-17
+Westchester,New York,2020-03-04
 Wayne,New York,2020-03-19
 Washington,New York,2020-03-18
 Warren,New York,2020-03-18
@@ -2267,20 +2374,21 @@ Tompkins,New York,2020-03-14
 Tioga,New York,2020-03-14
 Sullivan,New York,2020-03-17
 Suffolk,New York,2020-03-08
+Steuben,New York,2020-03-21
 St. Lawrence,New York,2020-03-22
-Wyoming,New York,2020-03-17
 Seneca,New York,2020-03-31
 Schuyler,New York,2020-03-28
-Schoharie,New York,2020-03-19
-Schenectady,New York,2020-03-13
-Saratoga,New York,2020-03-07
-Rockland,New York,2020-03-06
-Rensselaer,New York,2020-03-17
-Putnam,New York,2020-03-15
-Westchester,New York,2020-03-04
-Yates,New York,2020-04-02
+Ashe,North Carolina,2020-04-04
+Beaufort,North Carolina,2020-03-26
+Dare,North Carolina,2020-04-02
+Bertie,North Carolina,2020-03-25
+Currituck,North Carolina,2020-03-29
+Cumberland,North Carolina,2020-03-22
+Craven,North Carolina,2020-03-14
+Columbus,North Carolina,2020-03-29
+Cleveland,North Carolina,2020-03-25
+Clay,North Carolina,2020-03-31
 Chowan,North Carolina,2020-04-03
-Burke,North Carolina,2020-03-25
 Cherokee,North Carolina,2020-03-22
 Chatham,North Carolina,2020-03-06
 Catawba,North Carolina,2020-03-21
@@ -2289,53 +2397,15 @@ Carteret,North Carolina,2020-03-20
 Camden,North Carolina,2020-04-27
 Caldwell,North Carolina,2020-03-25
 Cabarrus,North Carolina,2020-03-12
+Burke,North Carolina,2020-03-25
 Buncombe,North Carolina,2020-03-21
-Alamance,North Carolina,2020-03-23
 Brunswick,North Carolina,2020-03-14
-Bladen,North Carolina,2020-03-29
-Bertie,North Carolina,2020-03-25
-Beaufort,North Carolina,2020-03-26
-Ashe,North Carolina,2020-04-04
-Anson,North Carolina,2020-03-31
-Alleghany,North Carolina,2020-03-29
-Alexander,North Carolina,2020-03-30
-Unknown,New Hampshire,2020-04-04
-Strafford,New Hampshire,2020-03-21
-Orange,North Carolina,2020-03-20
-Rockingham,New Hampshire,2020-03-07
-Worth,Missouri,2020-04-06
-Webster,Missouri,2020-03-30
-Washington,Missouri,2020-04-08
-Warren,Missouri,2020-03-28
-Vernon,Missouri,2020-04-09
-Taney,Missouri,2020-03-23
-Stone,Missouri,2020-03-30
-Stoddard,Missouri,2020-03-26
-Ste. Genevieve,Missouri,2020-03-31
-St. Louis city,Missouri,2020-03-18
-St. Louis,Missouri,2020-03-07
-St. Francois,Missouri,2020-03-23
-St. Clair,Missouri,2020-04-09
-St. Charles,Missouri,2020-03-18
-Shelby,Missouri,2020-03-25
-Scott,Missouri,2020-03-20
-Scotland,Missouri,2020-04-07
-Saline,Missouri,2020-04-03
-Ripley,Missouri,2020-03-28
-Wright,Missouri,2020-03-27
-Beaverhead,Montana,2020-04-04
-Big Horn,Montana,2020-04-10
-Lake,Montana,2020-03-27
-Park,Montana,2020-03-27
-Musselshell,Montana,2020-03-31
-Missoula,Montana,2020-03-14
-Meagher,Montana,2020-03-26
-Madison,Montana,2020-03-19
-Lincoln,Montana,2020-03-26
-Liberty,Montana,2020-03-31
-Lewis and Clark,Montana,2020-03-13
-Jefferson,Montana,2020-03-24
+Bladen,North Carolina,2020-04-03
+Camden,New Jersey,2020-03-06
+Bergen,New Jersey,2020-03-04
+Polk,North Carolina,2020-03-28
 Broadwater,Montana,2020-03-19
+Jefferson,Montana,2020-03-24
 Hill,Montana,2020-03-25
 Golden Valley,Montana,2020-04-11
 Glacier,Montana,2020-04-03
@@ -2344,42 +2414,45 @@ Flathead,Montana,2020-03-19
 Deer Lodge,Montana,2020-03-29
 Cascade,Montana,2020-03-21
 Carbon,Montana,2020-04-01
-Reynolds,Missouri,2020-03-30
-Ray,Missouri,2020-03-27
-Randolph,Missouri,2020-03-25
-Jefferson,Missouri,2020-03-24
-Macon,Missouri,2020-03-30
-Livingston,Missouri,2020-03-30
-Linn,Missouri,2020-04-03
-Lincoln,Missouri,2020-03-27
-Lewis,Missouri,2020-04-18
-Lafayette,Missouri,2020-03-23
-Kansas City,Missouri,2020-03-20
-Johnson,Missouri,2020-03-21
-Jasper,Missouri,2020-03-21
-Maries,Missouri,2020-03-30
-Jackson,Missouri,2020-03-17
-Iron,Missouri,2020-04-11
-Howell,Missouri,2020-04-02
-Howard,Missouri,2020-04-07
-Holt,Missouri,2020-04-15
-Henry,Missouri,2020-03-13
-Greene,Missouri,2020-03-12
-Greenwood,South Carolina,2020-03-21
-Madison,Missouri,2020-04-06
-Marion,Missouri,2020-03-31
-Ralls,Missouri,2020-03-25
-Osage,Missouri,2020-03-30
-Pulaski,Missouri,2020-03-20
-Polk,Missouri,2020-04-07
-Platte,Missouri,2020-03-25
-Pike,Missouri,2020-03-30
-Phelps,Missouri,2020-04-06
-Pettis,Missouri,2020-03-27
-Perry,Missouri,2020-03-23
+Big Horn,Montana,2020-04-10
+Atlantic,New Jersey,2020-03-18
+Beaverhead,Montana,2020-04-04
+Wright,Missouri,2020-03-27
+Worth,Missouri,2020-04-06
+Webster,Missouri,2020-03-30
+Washington,Missouri,2020-04-08
+Warren,Missouri,2020-03-28
+Vernon,Missouri,2020-04-09
+Taney,Missouri,2020-03-23
+Sullivan,Missouri,2020-05-03
+Lake,Montana,2020-03-27
+Lewis and Clark,Montana,2020-03-13
+Liberty,Montana,2020-03-31
+Lincoln,Montana,2020-03-26
+Buffalo,Nebraska,2020-03-20
+Box Butte,Nebraska,2020-04-11
+Boone,Nebraska,2020-05-04
+Antelope,Nebraska,2020-03-30
+Adams,Nebraska,2020-03-18
+Yellowstone,Montana,2020-03-13
+Wheatland,Montana,2020-04-24
+Toole,Montana,2020-03-26
+Stillwater,Montana,2020-04-09
+Silver Bow,Montana,2020-03-13
+Roosevelt,Montana,2020-03-19
+Richland,Montana,2020-04-08
+Ravalli,Montana,2020-03-21
+Pondera,Montana,2020-04-15
+Park,Montana,2020-03-27
+Musselshell,Montana,2020-03-31
+Missoula,Montana,2020-03-14
+Meagher,Montana,2020-03-26
+Madison,Montana,2020-03-19
+Stone,Missouri,2020-03-30
+Stoddard,Missouri,2020-03-26
+Ste. Genevieve,Missouri,2020-03-31
 Pemiscot,Missouri,2020-03-24
 Oregon,Missouri,2020-04-07
-McDonald,Missouri,2020-03-25
 Nodaway,Missouri,2020-04-04
 Newton,Missouri,2020-03-25
 New Madrid,Missouri,2020-04-02
@@ -2388,32 +2461,70 @@ Montgomery,Missouri,2020-03-25
 Moniteau,Missouri,2020-03-23
 Mississippi,Missouri,2020-04-22
 Miller,Missouri,2020-04-15
-Pondera,Montana,2020-04-15
-Ravalli,Montana,2020-03-21
-Richland,Montana,2020-04-08
-Saunders,Nebraska,2020-03-24
+McDonald,Missouri,2020-03-25
+Marion,Missouri,2020-04-18
+Maries,Missouri,2020-03-30
+Madison,Missouri,2020-04-06
+Macon,Missouri,2020-03-30
+Livingston,Missouri,2020-03-30
+Linn,Missouri,2020-04-03
+Lincoln,Missouri,2020-03-27
+Lewis,Missouri,2020-04-18
+Marion,South Carolina,2020-03-25
+Osage,Missouri,2020-03-30
+Perry,Missouri,2020-03-23
+St. Louis city,Missouri,2020-03-18
+Pettis,Missouri,2020-03-27
+St. Louis,Missouri,2020-03-07
+St. Francois,Missouri,2020-03-23
+St. Clair,Missouri,2020-04-09
+St. Charles,Missouri,2020-03-18
+Shelby,Missouri,2020-03-25
+Scott,Missouri,2020-03-20
+Scotland,Missouri,2020-04-07
+Schuyler,Missouri,2020-05-16
+Saline,Missouri,2020-04-03
+Ripley,Missouri,2020-03-28
+Reynolds,Missouri,2020-03-30
+Ray,Missouri,2020-03-27
+Randolph,Missouri,2020-03-25
+Ralls,Missouri,2020-03-25
+Pulaski,Missouri,2020-03-20
+Polk,Missouri,2020-04-07
+Platte,Missouri,2020-03-25
+Pike,Missouri,2020-03-30
+Phelps,Missouri,2020-04-06
+Burt,Nebraska,2020-04-09
+Butler,Nebraska,2020-04-17
+Cass,Nebraska,2020-03-12
+Elko,Nevada,2020-03-19
+Clark,Nevada,2020-03-05
+Churchill,Nevada,2020-04-13
+Carson City,Nevada,2020-03-12
+York,Nebraska,2020-03-30
+Webster,Nebraska,2020-04-10
 Wayne,Nebraska,2020-04-11
 Washington,Nebraska,2020-03-23
 Valley,Nebraska,2020-04-27
-Thurston,Nebraska,2020-04-19
+Unknown,Nebraska,2020-03-29
+Thurston,Nebraska,2020-04-25
+Thomas,Nebraska,2020-05-06
 Stanton,Nebraska,2020-04-06
 Sherman,Nebraska,2020-04-23
+Sheridan,Nebraska,2020-05-21
 Seward,Nebraska,2020-04-05
 Scotts Bluff,Nebraska,2020-03-29
+Saunders,Nebraska,2020-03-24
 Sarpy,Nebraska,2020-03-17
-York,Nebraska,2020-03-30
 Saline,Nebraska,2020-04-14
+Douglas,Nevada,2020-03-23
+Humboldt,Nevada,2020-03-28
 Red Willow,Nebraska,2020-04-17
-Polk,Nebraska,2020-04-09
-Platte,Nebraska,2020-03-28
-Pierce,Nebraska,2020-04-11
-Phelps,Nebraska,2020-04-05
-Otoe,Nebraska,2020-04-02
-Nemaha,Nebraska,2020-03-19
-Webster,Nebraska,2020-04-10
-Carson City,Nevada,2020-03-12
-Morrill,Nebraska,2020-04-15
-Washoe,Nevada,2020-03-05
+Lander,Nevada,2020-04-21
+Unknown,New Hampshire,2020-04-04
+Sullivan,New Hampshire,2020-03-22
+Strafford,New Hampshire,2020-03-21
+Rockingham,New Hampshire,2020-03-07
 Merrimack,New Hampshire,2020-03-18
 Hillsborough,New Hampshire,2020-03-15
 Grafton,New Hampshire,2020-03-02
@@ -2422,72 +2533,76 @@ Cheshire,New Hampshire,2020-03-20
 Carroll,New Hampshire,2020-03-16
 Belknap,New Hampshire,2020-03-18
 White Pine,Nevada,2020-04-09
+Washoe,Nevada,2020-03-05
 Unknown,Nevada,2020-03-19
-Churchill,Nevada,2020-04-13
+Storey,Nevada,2020-05-18
 Nye,Nevada,2020-03-20
 Mineral,Nevada,2020-04-18
 Lyon,Nevada,2020-03-25
-Lander,Nevada,2020-04-21
-Humboldt,Nevada,2020-03-28
-Elko,Nevada,2020-03-19
-Douglas,Nevada,2020-03-23
-Clark,Nevada,2020-03-05
-Nance,Nebraska,2020-04-16
-Merrick,Nebraska,2020-04-03
-Roosevelt,Montana,2020-03-19
-Burt,Nebraska,2020-04-09
+Lincoln,Nevada,2020-05-08
+Richardson,Nebraska,2020-05-13
+Polk,Nebraska,2020-04-09
+Cedar,Nebraska,2020-04-27
+Hamilton,Nebraska,2020-04-02
+Greeley,Nebraska,2020-04-23
+Gosper,Nebraska,2020-03-28
+Gage,Nebraska,2020-04-02
+Furnas,Nebraska,2020-04-18
+Frontier,Nebraska,2020-04-29
+Franklin,Nebraska,2020-04-10
+Fillmore,Nebraska,2020-04-22
+Douglas,Nebraska,2020-02-17
+Dodge,Nebraska,2020-03-25
+Dixon,Nebraska,2020-04-20
+Dawson,Nebraska,2020-03-22
+Dawes,Nebraska,2020-05-09
+Dakota,Nebraska,2020-04-12
+Custer,Nebraska,2020-04-06
 Cuming,Nebraska,2020-04-01
 Colfax,Nebraska,2020-04-02
 Clay,Nebraska,2020-04-10
 Cheyenne,Nebraska,2020-04-06
 Cherry,Nebraska,2020-04-04
-Cedar,Nebraska,2020-04-10
-Cass,Nebraska,2020-03-12
-Butler,Nebraska,2020-04-17
-Buffalo,Nebraska,2020-03-20
-Dakota,Nebraska,2020-04-12
-Box Butte,Nebraska,2020-04-11
-Antelope,Nebraska,2020-03-30
-Adams,Nebraska,2020-03-18
-Yellowstone,Montana,2020-03-13
-Wheatland,Montana,2020-04-24
-Toole,Montana,2020-03-26
-Stillwater,Montana,2020-04-09
-Silver Bow,Montana,2020-03-13
-Custer,Nebraska,2020-04-06
-Dawson,Nebraska,2020-03-22
+Hall,Nebraska,2020-03-26
+Harlan,Nebraska,2020-05-21
+Platte,Nebraska,2020-03-28
+Hitchcock,Nebraska,2020-04-30
+Pierce,Nebraska,2020-04-11
+Phelps,Nebraska,2020-04-05
+Otoe,Nebraska,2020-04-02
+Nuckolls,Nebraska,2020-05-16
+Nemaha,Nebraska,2020-03-19
+Nance,Nebraska,2020-04-16
+Morrill,Nebraska,2020-04-15
+Merrick,Nebraska,2020-04-03
 Madison,Nebraska,2020-03-23
-Hamilton,Nebraska,2020-03-26
 Lincoln,Nebraska,2020-03-18
 Lancaster,Nebraska,2020-03-20
 Knox,Nebraska,2020-03-17
 Kimball,Nebraska,2020-03-31
+Keith,Nebraska,2020-05-02
 Kearney,Nebraska,2020-03-26
 Johnson,Nebraska,2020-04-05
 Jefferson,Nebraska,2020-04-26
 Howard,Nebraska,2020-04-16
-Hall,Nebraska,2020-03-26
-Dixon,Nebraska,2020-04-20
-Greeley,Nebraska,2020-04-23
-Gosper,Nebraska,2020-03-28
-Gage,Nebraska,2020-04-02
-Furnas,Nebraska,2020-04-18
-Franklin,Nebraska,2020-04-10
-Fillmore,Nebraska,2020-04-22
-Douglas,Nebraska,2020-02-17
-Dodge,Nebraska,2020-03-25
-Onslow,North Carolina,2020-03-12
-Harrison,Missouri,2020-03-31
-Pamlico,North Carolina,2020-03-29
-Grant,Oklahoma,2020-04-03
+Holt,Nebraska,2020-05-03
+Pitt,North Carolina,2020-03-20
+Lawrence,Missouri,2020-05-03
+Randolph,North Carolina,2020-03-24
+Jefferson,Oregon,2020-04-14
+Multnomah,Oregon,2020-03-10
+Morrow,Oregon,2020-03-27
+Marion,Oregon,2020-03-08
+Malheur,Oregon,2020-03-31
 Linn,Oregon,2020-03-11
 Lincoln,Oregon,2020-03-25
 Lane,Oregon,2020-03-17
 Klamath,Oregon,2020-03-07
 Josephine,Oregon,2020-03-21
-Jefferson,Oregon,2020-04-14
 Jackson,Oregon,2020-03-07
+Jackson,Oklahoma,2020-03-14
 Hood River,Oregon,2020-03-23
+Harney,Oregon,2020-04-28
 Grant,Oregon,2020-03-20
 Douglas,Oregon,2020-03-08
 Deschutes,Oregon,2020-03-11
@@ -2495,14 +2610,15 @@ Curry,Oregon,2020-04-06
 Crook,Oregon,2020-04-03
 Coos,Oregon,2020-04-11
 Columbia,Oregon,2020-03-27
-Clatsop,Oregon,2020-03-24
-Clackamas,Oregon,2020-03-12
-Benton,Oregon,2020-03-16
-Woodward,Oklahoma,2020-04-02
-Malheur,Oregon,2020-03-31
-Marion,Oregon,2020-03-08
-Morrow,Oregon,2020-03-27
-Adams,Pennsylvania,2020-03-18
+Polk,Oregon,2020-03-11
+Sherman,Oregon,2020-04-05
+Tillamook,Oregon,2020-03-26
+Umatilla,Oregon,2020-03-11
+Centre,Pennsylvania,2020-03-20
+Carbon,Pennsylvania,2020-03-24
+Cameron,Pennsylvania,2020-03-28
+Cambria,Pennsylvania,2020-03-23
+Butler,Pennsylvania,2020-03-21
 Bucks,Pennsylvania,2020-03-11
 Bradford,Pennsylvania,2020-03-24
 Blair,Pennsylvania,2020-03-26
@@ -2511,20 +2627,21 @@ Bedford,Pennsylvania,2020-03-31
 Beaver,Pennsylvania,2020-03-17
 Armstrong,Pennsylvania,2020-03-24
 Allegheny,Pennsylvania,2020-03-14
+Adams,Pennsylvania,2020-03-18
 Yamhill,Oregon,2020-03-15
-Multnomah,Oregon,2020-03-10
 Washington,Oregon,2020-02-28
 Wasco,Oregon,2020-03-26
 Wallowa,Oregon,2020-03-31
 Union,Oregon,2020-03-20
-Umatilla,Oregon,2020-03-11
-Tillamook,Oregon,2020-03-26
-Sherman,Oregon,2020-04-05
-Polk,Oregon,2020-03-11
-Woods,Oklahoma,2020-04-17
-Washington,Oklahoma,2020-03-19
-Wagoner,Oklahoma,2020-03-24
-Le Flore,Oklahoma,2020-03-28
+Clatsop,Oregon,2020-03-24
+Clackamas,Oregon,2020-03-12
+Benton,Oregon,2020-03-16
+Oklahoma,Oklahoma,2020-03-13
+Nowata,Oklahoma,2020-03-28
+Noble,Oklahoma,2020-03-22
+Muskogee,Oklahoma,2020-03-22
+Murray,Oklahoma,2020-04-10
+McIntosh,Oklahoma,2020-04-17
 McCurtain,Oklahoma,2020-04-03
 McClain,Oklahoma,2020-03-19
 Mayes,Oklahoma,2020-03-24
@@ -2533,20 +2650,22 @@ Major,Oklahoma,2020-04-03
 Love,Oklahoma,2020-03-30
 Logan,Oklahoma,2020-03-19
 Lincoln,Oklahoma,2020-03-26
+Le Flore,Oklahoma,2020-03-28
 Latimer,Oklahoma,2020-03-27
-Murray,Oklahoma,2020-04-10
 Kiowa,Oklahoma,2020-04-02
 Kingfisher,Oklahoma,2020-04-02
 Kay,Oklahoma,2020-03-15
 Johnston,Oklahoma,2020-04-14
-Jefferson,Oklahoma,2020-04-06
-Jackson,Oklahoma,2020-03-14
-Haskell,Oklahoma,2020-04-17
-Harper,Oklahoma,2020-04-18
-McIntosh,Oklahoma,2020-04-05
-Muskogee,Oklahoma,2020-03-22
+Okfuskee,Oklahoma,2020-04-10
+Okmulgee,Oklahoma,2020-03-26
+Baker,Oregon,2020-05-06
+Osage,Oklahoma,2020-03-25
+Woodward,Oklahoma,2020-04-02
+Woods,Oklahoma,2020-04-17
+Washita,Oklahoma,2020-05-14
+Washington,Oklahoma,2020-03-19
+Wagoner,Oklahoma,2020-03-24
 Tulsa,Oklahoma,2020-03-06
-Pontotoc,Oklahoma,2020-03-23
 Tillman,Oklahoma,2020-04-04
 Texas,Oklahoma,2020-03-29
 Stephens,Oklahoma,2020-03-25
@@ -2555,20 +2674,23 @@ Seminole,Oklahoma,2020-03-29
 Rogers,Oklahoma,2020-03-29
 Pushmataha,Oklahoma,2020-04-27
 Pottawatomie,Oklahoma,2020-03-25
+Pontotoc,Oklahoma,2020-03-23
 Pittsburg,Oklahoma,2020-03-27
-Noble,Oklahoma,2020-03-22
 Payne,Oklahoma,2020-03-15
 Pawnee,Oklahoma,2020-03-17
 Ottawa,Oklahoma,2020-03-26
-Osage,Oklahoma,2020-03-25
-Okmulgee,Oklahoma,2020-03-26
-Oklahoma,Oklahoma,2020-03-13
-Okfuskee,Oklahoma,2020-04-10
-Nowata,Oklahoma,2020-03-28
-Butler,Pennsylvania,2020-03-21
-Cambria,Pennsylvania,2020-03-23
-Cameron,Pennsylvania,2020-03-28
-York,Pennsylvania,2020-03-18
+Chester,Pennsylvania,2020-03-13
+Clarion,Pennsylvania,2020-03-28
+Clearfield,Pennsylvania,2020-03-24
+Cherokee,South Carolina,2020-04-02
+Calhoun,South Carolina,2020-03-17
+Berkeley,South Carolina,2020-03-20
+Beaufort,South Carolina,2020-03-14
+Barnwell,South Carolina,2020-03-30
+Bamberg,South Carolina,2020-03-31
+Anderson,South Carolina,2020-03-15
+Allendale,South Carolina,2020-04-01
+Aiken,South Carolina,2020-03-20
 Abbeville,South Carolina,2020-03-19
 Washington,Rhode Island,2020-03-25
 Unknown,Rhode Island,2020-03-01
@@ -2577,21 +2699,23 @@ Newport,Rhode Island,2020-03-25
 Kent,Rhode Island,2020-03-25
 Bristol,Rhode Island,2020-03-25
 Unknown,Puerto Rico,2020-03-13
+York,Pennsylvania,2020-03-18
 Wyoming,Pennsylvania,2020-04-04
-Allendale,South Carolina,2020-04-01
 Westmoreland,Pennsylvania,2020-03-19
-Wayne,Pennsylvania,2020-03-06
+Charleston,South Carolina,2020-03-06
+Chester,South Carolina,2020-03-23
 Washington,Pennsylvania,2020-03-13
-Warren,Pennsylvania,2020-03-25
-Venango,Pennsylvania,2020-03-29
-Union,Pennsylvania,2020-03-27
-Tioga,Pennsylvania,2020-03-28
-Susquehanna,Pennsylvania,2020-03-26
-Aiken,South Carolina,2020-03-20
-Anderson,South Carolina,2020-03-15
-Somerset,Pennsylvania,2020-03-24
-Colleton,South Carolina,2020-03-22
-Pasquotank,North Carolina,2020-03-20
+Chesterfield,South Carolina,2020-03-24
+Richmond,North Carolina,2020-04-07
+Lee,South Carolina,2020-03-18
+Laurens,South Carolina,2020-03-28
+Lancaster,South Carolina,2020-03-11
+Kershaw,South Carolina,2020-03-06
+Jasper,South Carolina,2020-03-21
+Horry,South Carolina,2020-03-15
+Hampton,South Carolina,2020-04-02
+Greenwood,South Carolina,2020-03-21
+Greenville,South Carolina,2020-03-15
 Georgetown,South Carolina,2020-03-23
 Florence,South Carolina,2020-03-20
 Fairfield,South Carolina,2020-03-16
@@ -2599,20 +2723,18 @@ Edgefield,South Carolina,2020-03-21
 Dorchester,South Carolina,2020-03-19
 Dillon,South Carolina,2020-03-21
 Darlington,South Carolina,2020-03-20
+Colleton,South Carolina,2020-03-22
 Clarendon,South Carolina,2020-03-20
-Bamberg,South Carolina,2020-03-31
-Chesterfield,South Carolina,2020-03-24
-Chester,South Carolina,2020-03-23
-Cherokee,South Carolina,2020-04-02
-Charleston,South Carolina,2020-03-06
-Calhoun,South Carolina,2020-03-17
-Berkeley,South Carolina,2020-03-20
-Beaufort,South Carolina,2020-03-14
-Barnwell,South Carolina,2020-03-30
-Sullivan,Pennsylvania,2020-04-04
-Snyder,Pennsylvania,2020-03-28
-Carbon,Pennsylvania,2020-03-24
-Delaware,Pennsylvania,2020-03-06
+Wayne,Pennsylvania,2020-03-06
+Warren,Pennsylvania,2020-03-25
+Clinton,Pennsylvania,2020-04-03
+Lehigh,Pennsylvania,2020-03-15
+Lawrence,Pennsylvania,2020-03-25
+Lancaster,Pennsylvania,2020-03-19
+Lackawanna,Pennsylvania,2020-03-18
+Juniata,Pennsylvania,2020-03-24
+Jefferson,Pennsylvania,2020-04-07
+Indiana,Pennsylvania,2020-03-26
 Huntingdon,Pennsylvania,2020-03-28
 Greene,Pennsylvania,2020-03-25
 Fulton,Pennsylvania,2020-04-05
@@ -2621,20 +2743,22 @@ Forest,Pennsylvania,2020-04-02
 Fayette,Pennsylvania,2020-03-22
 Erie,Pennsylvania,2020-03-20
 Elk,Pennsylvania,2020-04-07
+Delaware,Pennsylvania,2020-03-06
 Dauphin,Pennsylvania,2020-03-22
-Jefferson,Pennsylvania,2020-04-07
 Cumberland,Pennsylvania,2020-03-13
 Crawford,Pennsylvania,2020-03-26
 Columbia,Pennsylvania,2020-03-22
-Clinton,Pennsylvania,2020-04-03
-Clearfield,Pennsylvania,2020-03-24
-Clarion,Pennsylvania,2020-03-28
-Chester,Pennsylvania,2020-03-13
-Centre,Pennsylvania,2020-03-20
-Indiana,Pennsylvania,2020-03-26
-Juniata,Pennsylvania,2020-03-24
+Lebanon,Pennsylvania,2020-03-19
+Luzerne,Pennsylvania,2020-03-15
+Venango,Pennsylvania,2020-03-29
+Lycoming,Pennsylvania,2020-03-25
+Union,Pennsylvania,2020-03-30
+Tioga,Pennsylvania,2020-03-28
+Susquehanna,Pennsylvania,2020-03-26
+Sullivan,Pennsylvania,2020-04-04
+Somerset,Pennsylvania,2020-03-24
+Snyder,Pennsylvania,2020-03-28
 Schuylkill,Pennsylvania,2020-03-22
-Monroe,Pennsylvania,2020-03-09
 Potter,Pennsylvania,2020-03-20
 Pike,Pennsylvania,2020-03-12
 Philadelphia,Pennsylvania,2020-03-10
@@ -2643,42 +2767,40 @@ Northumberland,Pennsylvania,2020-03-27
 Northampton,Pennsylvania,2020-03-12
 Montour,Pennsylvania,2020-03-21
 Montgomery,Pennsylvania,2020-03-07
+Monroe,Pennsylvania,2020-03-09
 Mifflin,Pennsylvania,2020-03-29
-Lackawanna,Pennsylvania,2020-03-18
 Mercer,Pennsylvania,2020-03-22
 McKean,Pennsylvania,2020-03-28
-Lycoming,Pennsylvania,2020-03-25
-Luzerne,Pennsylvania,2020-03-15
-Lehigh,Pennsylvania,2020-03-15
-Lebanon,Pennsylvania,2020-03-19
-Lawrence,Pennsylvania,2020-03-25
-Lancaster,Pennsylvania,2020-03-19
-Greer,Oklahoma,2020-04-01
-Greenville,South Carolina,2020-03-15
-Grady,Oklahoma,2020-03-19
-Rolette,North Dakota,2020-04-11
+Jefferson,Oklahoma,2020-04-06
+Lexington,South Carolina,2020-03-14
+Haskell,Oklahoma,2020-04-17
+Allen,Ohio,2020-03-28
+Unknown,Northern Mariana Islands,2020-03-28
+Williams,North Dakota,2020-03-31
 Wells,North Dakota,2020-04-22
 Ward,North Dakota,2020-03-11
 Walsh,North Dakota,2020-03-23
+Traill,North Dakota,2020-05-07
 Stutsman,North Dakota,2020-04-08
+Steele,North Dakota,2020-05-17
 Stark,North Dakota,2020-03-25
 Slope,North Dakota,2020-04-03
 Sioux,North Dakota,2020-03-28
 Sargent,North Dakota,2020-04-10
+Rolette,North Dakota,2020-04-11
 Richland,North Dakota,2020-04-09
-Unknown,Northern Mariana Islands,2020-03-28
+Renville,North Dakota,2020-05-01
 Ransom,North Dakota,2020-04-26
 Ramsey,North Dakota,2020-03-20
 Pierce,North Dakota,2020-03-20
-Pembina,North Dakota,2020-04-25
 Oliver,North Dakota,2020-03-30
-Nelson,North Dakota,2020-04-19
-Mountrail,North Dakota,2020-03-28
-Morton,North Dakota,2020-03-18
-Williams,North Dakota,2020-03-31
 Adams,Ohio,2020-04-04
-McKenzie,North Dakota,2020-03-31
-Clark,Ohio,2020-03-18
+Ashland,Ohio,2020-03-18
+Mountrail,North Dakota,2020-03-28
+Ashtabula,Ohio,2020-03-20
+Fairfield,Ohio,2020-03-24
+Erie,Ohio,2020-03-21
+Delaware,Ohio,2020-03-18
 Defiance,Ohio,2020-03-21
 Darke,Ohio,2020-03-17
 Cuyahoga,Ohio,2020-03-09
@@ -2687,42 +2809,45 @@ Coshocton,Ohio,2020-03-17
 Columbiana,Ohio,2020-03-20
 Clinton,Ohio,2020-03-22
 Clermont,Ohio,2020-03-21
+Clark,Ohio,2020-03-18
 Champaign,Ohio,2020-03-24
-Allen,Ohio,2020-03-28
 Carroll,Ohio,2020-03-22
 Butler,Ohio,2020-03-14
 Brown,Ohio,2020-03-30
 Belmont,Ohio,2020-03-14
 Auglaize,Ohio,2020-03-28
 Athens,Ohio,2020-03-26
-Ashtabula,Ohio,2020-03-20
-Ashland,Ohio,2020-03-18
-McLean,North Dakota,2020-03-28
-McIntosh,North Dakota,2020-03-26
-Erie,Ohio,2020-03-21
-Rowan,North Carolina,2020-03-20
+Nelson,North Dakota,2020-04-19
+Morton,North Dakota,2020-03-18
+Franklin,Ohio,2020-03-14
+Wilkes,North Carolina,2020-03-31
+Watauga,North Carolina,2020-03-15
+Washington,North Carolina,2020-03-29
+Warren,North Carolina,2020-04-04
+Wake,North Carolina,2020-03-03
+Vance,North Carolina,2020-03-23
+Union,North Carolina,2020-03-22
 Tyrrell,North Carolina,2020-04-14
 Transylvania,North Carolina,2020-03-24
+Swain,North Carolina,2020-04-29
 Surry,North Carolina,2020-03-27
 Stokes,North Carolina,2020-04-02
 Stanly,North Carolina,2020-03-20
 Scotland,North Carolina,2020-03-22
 Sampson,North Carolina,2020-03-17
 Rutherford,North Carolina,2020-03-30
+Rowan,North Carolina,2020-03-20
 Rockingham,North Carolina,2020-03-31
-Vance,North Carolina,2020-03-23
 Robeson,North Carolina,2020-03-22
-Richmond,North Carolina,2020-03-23
-Randolph,North Carolina,2020-03-24
-Polk,North Carolina,2020-03-28
-Pitt,North Carolina,2020-03-20
-Person,North Carolina,2020-03-27
-Perquimans,North Carolina,2020-03-28
-Garvin,Oklahoma,2020-03-20
-Union,North Carolina,2020-03-22
-Wake,North Carolina,2020-03-03
+Harper,Oklahoma,2020-04-18
+Wayne,North Carolina,2020-03-13
+Wilson,North Carolina,2020-03-15
+Mercer,North Dakota,2020-05-05
+Yadkin,North Carolina,2020-03-29
+McLean,North Dakota,2020-03-28
+McKenzie,North Dakota,2020-03-31
+McIntosh,North Dakota,2020-03-26
 McHenry,North Dakota,2020-03-26
-Burleigh,North Dakota,2020-03-17
 Grant,North Dakota,2020-03-31
 Grand Forks,North Dakota,2020-03-30
 Foster,North Dakota,2020-03-25
@@ -2731,43 +2856,45 @@ Eddy,North Dakota,2020-04-03
 Dunn,North Dakota,2020-03-24
 Divide,North Dakota,2020-03-28
 Cass,North Dakota,2020-03-17
+Burleigh,North Dakota,2020-03-17
 Burke,North Dakota,2020-04-01
-Warren,North Carolina,2020-04-04
 Bowman,North Dakota,2020-04-07
+Bottineau,North Dakota,2020-05-19
+Benson,North Dakota,2020-05-07
 Barnes,North Dakota,2020-03-28
-Yadkin,North Carolina,2020-03-29
-Wilson,North Carolina,2020-03-15
-Wilkes,North Carolina,2020-03-31
-Wayne,North Carolina,2020-03-13
-Watauga,North Carolina,2020-03-15
-Washington,North Carolina,2020-03-29
-Delaware,Ohio,2020-03-18
-Pender,North Carolina,2020-04-05
-Fairfield,Ohio,2020-03-24
-Trumbull,Ohio,2020-03-12
+Yancey,North Carolina,2020-05-03
+Fayette,Ohio,2020-03-25
+Pembina,North Dakota,2020-04-25
+Fulton,Ohio,2020-03-27
+Warren,Ohio,2020-03-20
+Beaver,Oklahoma,2020-04-07
+Atoka,Oklahoma,2020-04-02
+Alfalfa,Oklahoma,2020-04-13
+Adair,Oklahoma,2020-03-25
 Wyandot,Ohio,2020-03-26
+Wood,Ohio,2020-03-22
 Williams,Ohio,2020-04-02
 Wayne,Ohio,2020-03-25
 Washington,Ohio,2020-03-23
-Warren,Ohio,2020-03-20
+Vinton,Ohio,2020-04-28
+Ross,Ohio,2020-03-30
 Van Wert,Ohio,2020-03-28
 Union,Ohio,2020-03-20
 Tuscarawas,Ohio,2020-03-14
+Trumbull,Ohio,2020-03-12
 Summit,Ohio,2020-03-14
-Alfalfa,Oklahoma,2020-04-13
 Stark,Ohio,2020-03-11
 Shelby,Ohio,2020-03-27
 Seneca,Ohio,2020-03-25
 Scioto,Ohio,2020-04-06
-Sandusky,Ohio,2020-03-23
-Ross,Ohio,2020-03-30
-Richland,Ohio,2020-03-19
-Putnam,Ohio,2020-04-06
-Adair,Oklahoma,2020-03-25
-Atoka,Oklahoma,2020-04-02
-Portage,Ohio,2020-03-22
-Comanche,Oklahoma,2020-03-26
-Fayette,Ohio,2020-03-25
+Beckham,Oklahoma,2020-03-30
+Blaine,Oklahoma,2020-05-04
+Bryan,Oklahoma,2020-03-25
+Caddo,Oklahoma,2020-03-27
+Greer,Oklahoma,2020-04-01
+Gallia,Ohio,2020-03-22
+Grady,Oklahoma,2020-03-19
+Garvin,Oklahoma,2020-03-20
 Garfield,Oklahoma,2020-03-29
 Dewey,Oklahoma,2020-04-07
 Delaware,Oklahoma,2020-03-25
@@ -2775,24 +2902,25 @@ Custer,Oklahoma,2020-03-19
 Creek,Oklahoma,2020-03-25
 Craig,Oklahoma,2020-03-26
 Cotton,Oklahoma,2020-03-30
+Comanche,Oklahoma,2020-03-26
+Coal,Oklahoma,2020-05-19
 Cleveland,Oklahoma,2020-03-15
-Beaver,Oklahoma,2020-04-07
 Cimarron,Oklahoma,2020-04-21
 Choctaw,Oklahoma,2020-03-27
 Cherokee,Oklahoma,2020-03-27
 Carter,Oklahoma,2020-03-25
 Canadian,Oklahoma,2020-03-16
-Caddo,Oklahoma,2020-03-27
-Bryan,Oklahoma,2020-03-25
-Beckham,Oklahoma,2020-03-30
-Preble,Ohio,2020-03-30
-Wood,Ohio,2020-03-22
-Pike,Ohio,2020-03-28
+Sandusky,Ohio,2020-03-23
+Grant,Oklahoma,2020-04-03
+Richland,Ohio,2020-03-19
+Madison,Ohio,2020-03-23
+Lorain,Ohio,2020-03-14
+Logan,Ohio,2020-03-23
 Licking,Ohio,2020-03-21
+Lawrence,Ohio,2020-03-25
 Lake,Ohio,2020-03-17
 Knox,Ohio,2020-03-23
 Jefferson,Ohio,2020-03-26
-Jackson,Ohio,2020-04-08
 Huron,Ohio,2020-03-18
 Holmes,Ohio,2020-03-30
 Hocking,Ohio,2020-04-11
@@ -2804,63 +2932,45 @@ Hancock,Ohio,2020-03-22
 Hamilton,Ohio,2020-03-19
 Guernsey,Ohio,2020-04-02
 Greene,Ohio,2020-03-22
-Geauga,Ohio,2020-03-16
-Gallia,Ohio,2020-03-22
+Putnam,Ohio,2020-04-06
+Lucas,Ohio,2020-03-15
+Jackson,Ohio,2020-04-08
+Mahoning,Ohio,2020-03-17
+Muskingum,Ohio,2020-03-26
+Marion,Ohio,2020-03-20
+Preble,Ohio,2020-03-30
+Portage,Ohio,2020-03-22
+Pike,Ohio,2020-03-28
 Pickaway,Ohio,2020-03-25
-Franklin,Ohio,2020-03-14
-Lawrence,Ohio,2020-03-25
-Fulton,Ohio,2020-03-27
-Logan,Ohio,2020-03-23
-Miami,Ohio,2020-03-18
-Lorain,Ohio,2020-03-14
-Paulding,Ohio,2020-04-06
+Perry,Ohio,2020-03-31
 Ottawa,Ohio,2020-03-28
 Noble,Ohio,2020-04-09
-Muskingum,Ohio,2020-03-26
+Paulding,Ohio,2020-04-06
 Morrow,Ohio,2020-04-01
-Montgomery,Ohio,2020-03-19
-Monroe,Ohio,2020-04-05
+Miami,Ohio,2020-03-18
 Morgan,Ohio,2020-04-06
-Mercer,Ohio,2020-03-25
 Meigs,Ohio,2020-04-07
+Mercer,Ohio,2020-03-25
 Medina,Ohio,2020-03-15
-Marion,Ohio,2020-03-20
-Mahoning,Ohio,2020-03-17
-Madison,Ohio,2020-03-23
-Lucas,Ohio,2020-03-15
-Perry,Ohio,2020-03-31
-Emmet,Iowa,2020-04-26
-San Juan,Colorado,2020-04-25
+Monroe,Ohio,2020-04-05
+Montgomery,Ohio,2020-03-19
+Geauga,Ohio,2020-03-16
+Keya Paha,Nebraska,2020-05-20
+Wichita,Kansas,2020-05-15
+Unknown,Oregon,2020-05-13
+Unknown,Kentucky,2020-03-19
+Unknown,Illinois,2020-03-23
+Unknown,California,2020-03-22
+Unknown,New York,2020-04-03
 Unknown,Missouri,2020-03-20
-Loup,Nebraska,2020-04-20
-Arthur,Nebraska,2020-04-25
-Dawes,Nebraska,2020-04-25
-Washita,Oklahoma,2020-04-03
-Unknown,Nebraska,2020-03-29
-Unknown,Virginia,2020-04-03
 Unknown,Washington,2020-04-06
 Unknown,Kansas,2020-04-10
-Day,South Dakota,2020-04-18
-Unknown,New York,2020-04-03
-Brule,South Dakota,2020-04-12
 Unknown,North Dakota,2020-04-10
 Unknown,Hawaii,2020-03-23
 Unknown,Arizona,2020-04-03
-Boundary,Idaho,2020-04-12
-Unknown,Tennessee,2020-03-19
-Unknown,Idaho,2020-03-26
-Hidalgo,New Mexico,2020-04-10
-Unknown,Alaska,2020-04-02
 Unknown,South Dakota,2020-04-06
-Ontonagon,Michigan,2020-04-05
-Logan,Nebraska,2020-04-05
-Lewis,Idaho,2020-04-02
 Unknown,Pennsylvania,2020-04-03
 Unknown,Indiana,2020-03-31
 Unknown,Mississippi,2020-03-27
-Hall,Texas,2020-03-30
-Kingsbury,South Dakota,2020-03-31
-Butte,South Dakota,2020-03-30
-Texas,Missouri,2020-03-27
-Mercer,North Dakota,2020-03-28
+Unknown,Idaho,2020-03-26
 Unknown,Ohio,2020-03-26
